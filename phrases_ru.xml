@@ -1269,6 +1269,7 @@
   <phrase title="facebook_application_secret" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Facebook Application Secret]]></phrase>
   <phrase title="facebook_colorscheme_dark" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Тёмная]]></phrase>
   <phrase title="facebook_colorscheme_light" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Светлая]]></phrase>
+  <phrase title="facebook_did_not_provide_email" addon_id="XenForo" version_id="1020470" version_string="1.2.4"><![CDATA[Для учётной записи Facebook требовалось указать адрес электронной почты. Пожалуйста, убедитесь, что указанный в Facebook адрес электронной почты, подтверждён и попробуйте ещё раз.]]></phrase>
   <phrase title="facebook_integration" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Интеграция с Facebook]]></phrase>
   <phrase title="facebook_like" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Мне нравится]]></phrase>
   <phrase title="facebook_recommend" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Я рекомендую]]></phrase>
@@ -1316,7 +1317,7 @@
   <phrase title="find_member" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Найти пользователя]]></phrase>
   <phrase title="find_now" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Искать]]></phrase>
   <phrase title="find_older_messages" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Найти сообщения постарше]]></phrase>
-  <phrase title="find_reports_for_member" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Найти жалобы пользователя]]></phrase>
+  <phrase title="find_reports_for_member" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Найти жалобы на пользователя]]></phrase>
   <phrase title="find_route" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Найти роутинг]]></phrase>
   <phrase title="find_route_must_start_with_route_prefix" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Искомый роутинг должен начинаться с префикса роутинга.]]></phrase>
   <phrase title="find_user" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Найти]]></phrase>
@@ -1343,6 +1344,7 @@
   <phrase title="font_family" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Шрифт]]></phrase>
   <phrase title="font_size" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Размер]]></phrase>
   <phrase title="force_character_set" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Установленная кодировка]]></phrase>
+  <phrase title="force_data_read_specific_mysql_character_set" addon_id="XenForo" version_id="1020470" version_string="1.2.4"><![CDATA[Эта опция заставляет читать данные MySQL в определённой кодировке. Как правило, это только попытка обойти проблему, когда не-ASCII символы не импортируются правильно. Если Вы не уверены, то просто оставьте это поле пустым.]]></phrase>
   <phrase title="forgot_your_password" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Забыли пароль?]]></phrase>
   <phrase title="formatted" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[С форматированием]]></phrase>
   <phrase title="format_parameters" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Параметры формата]]></phrase>
@@ -2535,9 +2537,9 @@
   <phrase title="option_tosUrl" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[URL на условия и правила]]></phrase>
   <phrase title="option_tosUrl_explain" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[Эта ссылка будет показана в "подвале" (footer) и пользователи должны будут согласиться с правилами форума при регистрации.]]></phrase>
   <phrase title="option_tweet" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Включить кнопку Tweet]]></phrase>
-  <phrase title="option_tweet_explain" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Включение кнопки Tweet позволит посетителям легко делиться страницами форума, используя учётную запись Twitter'а.<br />
+  <phrase title="option_tweet_explain" addon_id="XenForo" version_id="1020470" version_string="1.2.4"><![CDATA[Включение кнопки Tweet позволит посетителям легко делиться страницами форума, используя учётную запись Twitter'а.<br />
 <br />
-Также можно указать до двух учётных записей Twitter'а для рекомендации посетителям, после того как они воспользуются кнопкой Tweet. <a href="http://twitter.com/about/resources/tweetbutton" target="_blank">Узнать больше...</a>]]></phrase>
+Также можно указать до двух учётных записей Twitter'а для рекомендации посетителям, после того как они воспользуются кнопкой Tweet. <a href="https://about.twitter.com/resources/buttons#tweet" target="_blank">Узнать больше...</a>]]></phrase>
   <phrase title="option_uncompressedJs" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Использовать несжатый JavaScript]]></phrase>
   <phrase title="option_uncompressedJs_explain" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Настройте эту опцию соответственно, если у Вас запущен XenForo для разработки и Вы хотите работать с полной, несжатой версией файлов JavaScript.]]></phrase>
   <phrase title="option_updateContentOnUsernameChange" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Обновлять устаревшие имена пользователей при их смене]]></phrase>
