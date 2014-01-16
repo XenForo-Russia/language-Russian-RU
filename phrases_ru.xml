@@ -516,7 +516,7 @@
   <phrase title="close" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Закрыть]]></phrase>
   <phrase title="closed_reports" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Обработанные жалобы]]></phrase>
   <phrase title="closed_reports_x_y" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Обработанные жалобы: {from} - {to}]]></phrase>
-  <phrase title="close_this_overlay" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Закрыть это окно]]></phrase>
+  <phrase title="close_this_overlay" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Закрыть это окно]]></phrase>
   <phrase title="close_this_poll_after" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Закрыть голосование после этой даты]]></phrase>
   <phrase title="close_this_poll_on_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Закрыть голосование {date}]]></phrase>
   <phrase title="code" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Код]]></phrase>
@@ -930,6 +930,7 @@
   <phrase title="database_character_set" addon_id="XenForo" version_id="1020170" version_string="1.2.1"><![CDATA[Кодировка базы данных]]></phrase>
   <phrase title="data_attributes_names_may_not_look_like_integers" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Имена атрибутов данных не должны выглядеть как целые числа.]]></phrase>
   <phrase title="data_directory" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Путь к папке "data"]]></phrase>
+  <phrase title="data_directory_not_found" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Директория "data" не найдена.]]></phrase>
   <phrase title="data_type" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Тип данных]]></phrase>
   <phrase title="date" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Дата]]></phrase>
   <phrase title="date_criteria" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Критерии даты]]></phrase>
@@ -1574,6 +1575,7 @@
   <phrase title="interface_of_site_can_be_displayed_using_any_languages" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Выберите язык, на котором Вы бы хотели видеть интерфейс форума.]]></phrase>
   <phrase title="internal_compiler_error_unknown_segment_type" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Внутренняя ошибка компилятора (неверный тип сегмента).]]></phrase>
   <phrase title="internal_data_directory" addon_id="XenForo" version_id="1020070" version_string="1.2.0"><![CDATA[Путь к папке "internal_data"]]></phrase>
+  <phrase title="internal_data_directory_not_found" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Директория "internal_data" не найдена.]]></phrase>
   <phrase title="invalid_argument" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Неверный аргумент]]></phrase>
   <phrase title="invalid_callback" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Неверный обработчик]]></phrase>
   <phrase title="invalid_condition_expression" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Неверное выражение условия]]></phrase>
@@ -2187,6 +2189,7 @@
   <phrase title="only_edits_within_last_x_days_will_be_reverted" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Будут отменены правки только за последние {count} дней.]]></phrase>
   <phrase title="only_generate_list_of_email_addresses" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Только сгенерировать список адресов электронной почты]]></phrase>
   <phrase title="only_literal_css_templates_may_be_included_by_require_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Тэг require может быть использован только для обычных CSS-шаблонов.]]></phrase>
+  <phrase title="only_one_else_tag_allowed_per_if_tag" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Внутри тэга if разрешён только один тэг else.]]></phrase>
   <phrase title="only_send_to_users_opting_to_receive_emails_from_admin" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Отправлять только пользователям, желающим получать рассылку от администрации]]></phrase>
   <phrase title="only_when_data_is_provided" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Только если есть данные]]></phrase>
   <phrase title="on_next_page_you_may_apply_settings_to_all_selected_prefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[На следующей странице можно применить настройки ко всем выделенным префиксам. Если необходимо, чтобы эти настройки базировались на основе существующего префикса, то выберите его здесь.]]></phrase>
@@ -2508,7 +2511,7 @@
   <phrase title="option_showFirstCookieNotice" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Показывать предупреждение о файлах cookie при первом посещении]]></phrase>
   <phrase title="option_showFirstCookieNotice_explain" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Если опция включена, то когда пользователь впервые просматривает страницу (не имея файлов cookie XenForo), он увидит уведомление о том, что на данном сайте используются файлы cookie, и он должен дать согласие на дальнейшее использование этих файлов. Эта опция сделана с учетом соответствия положениям ЕС.]]></phrase>
   <phrase title="option_spamCheckIpsDaysLimit" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Ограничение по дате на проверку IP]]></phrase>
-  <phrase title="option_spamCheckIpsDaysLimit_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[При проверке пользователей на предмет использования IP-адресов, которые были замечены в использовании спамерами, поиск будет ограничен указанным количеством дней.]]></phrase>
+  <phrase title="option_spamCheckIpsDaysLimit_explain" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[При проверке пользователей на предмет использования IP-адресов, которые были замечены в использовании спамерами, поиск будет ограничен указанным количеством дней.]]></phrase>
   <phrase title="option_spamDefaultOptions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Настройки очистки спама:]]></phrase>
   <phrase title="option_spamDefaultOptions_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Эти опции задают настройки по умолчанию для очистки спама. Пользователь, запускающий очистку, будет иметь возможность их изменить.]]></phrase>
   <phrase title="option_spamEmailText" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Текст письма, отправляемого при очистке спама:]]></phrase>
@@ -3270,7 +3273,7 @@
   <phrase title="revert_style_property" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Вернуть настройку стиля]]></phrase>
   <phrase title="revert_template" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Вернуть шаблон]]></phrase>
   <phrase title="revert_this_property_to_its_default_value" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Восстановить значение по умолчанию для этого свойства]]></phrase>
-  <phrase title="revert_to_this_version" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Восстановить до этой версии]]></phrase>
+  <phrase title="revert_to_this_version" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Восстановить до этой версии]]></phrase>
   <phrase title="revoke" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Отозвать]]></phrase>
   <phrase title="revoke_admin_privileges" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Отозвать права администратора]]></phrase>
   <phrase title="ridge" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ridge]]></phrase>
@@ -3572,7 +3575,7 @@
   <phrase title="stopforumspam_frequencycutoff_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Можно выбрать учёт совпадений с базой данных спамеров, о которых сообщалось ранее уже определённое число раз.]]></phrase>
   <phrase title="stopforumspam_frequencycutoff_label" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Учитывать только флаги, записанные как минимум следующее число раз]]></phrase>
   <phrase title="stopforumspam_lastseencutoff_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Для того, чтобы избежать ложных срабатываний, можно выбрать подсчёт совпадений с базой данной спамеров, записанных только в течение ограниченного периода времени.]]></phrase>
-  <phrase title="stopforumspam_lastseencutoff_label" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Учитывать только флаги за последние X дней]]></phrase>
+  <phrase title="stopforumspam_lastseencutoff_label" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Учитывать только флаги за последние X дней]]></phrase>
   <phrase title="stopforumspam_moderate_registration_threshold" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Проверять регистрации, если обнаружено следующее количество флагов]]></phrase>
   <phrase title="stopforumspam_moderate_registration_threshold_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Укажите число предупреждающих флагов (1-3), прежде чем регистрация отправится в очередь на проверку, вместо того, чтобы быть принятой автоматически.]]></phrase>
   <phrase title="stopforumspam_reject_registration_threshold" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Отказывать в регистрации, если обнаружено следующее число флагов]]></phrase>
@@ -4521,7 +4524,7 @@
   <phrase title="thread_display_options" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Настройки отображения тем]]></phrase>
   <phrase title="thread_moderation" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Модерация тем]]></phrase>
   <phrase title="thread_prefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Префиксы тем]]></phrase>
-  <phrase title="thread_prefixes_will_be_disassociated" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Префиксы тем, принадлежащие к этой группе, будут отделены от неё, но не удалены.]]></phrase>
+  <phrase title="thread_prefixes_will_be_disassociated" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Префиксы тем, принадлежащие к этой группе, будут отделены от неё, но не удалены.]]></phrase>
   <phrase title="thread_prefix_group" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Группа префиксов тем]]></phrase>
   <phrase title="thread_prefix_groups" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Группы префиксов тем]]></phrase>
   <phrase title="thread_starter" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Автор темы]]></phrase>
@@ -4946,8 +4949,8 @@
   <phrase title="view_results" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Посмотреть результаты]]></phrase>
   <phrase title="view_template_modifications" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Просмотр модификации шаблона]]></phrase>
   <phrase title="view_them" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Посмотреть их?]]></phrase>
-  <phrase title="view_this_conversation" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Просмотреть эту переписку]]></phrase>
-  <phrase title="view_this_thread" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Просмотреть эту тему]]></phrase>
+  <phrase title="view_this_conversation" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Просмотреть эту переписку]]></phrase>
+  <phrase title="view_this_thread" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Просмотреть эту тему]]></phrase>
   <phrase title="view_this_users_identities" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Просматривать идентификационные данные этого пользователя]]></phrase>
   <phrase title="view_this_users_profile_page_details" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Просматривать содержимое страницы профиля]]></phrase>
   <phrase title="view_to_first_message_in_thread" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Перейти к первому сообщению в теме]]></phrase>
