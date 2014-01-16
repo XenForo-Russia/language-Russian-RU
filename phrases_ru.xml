@@ -487,7 +487,7 @@
   <phrase title="captcha" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[CAPTCHA]]></phrase>
   <phrase title="captcha_question_answers_explain" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Можно добавлять столько вопросов, сколько Вам необходимо. Ответы с пустыми полями будут проигнорированы. Ответы не чувствительны к регистру.]]></phrase>
   <phrase title="cast_your_vote" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Проголосовать]]></phrase>
-  <phrase title="certain_events_take_hints_that_can_limit_when_listener_is_run" addon_id="XenForo" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Некоторые события имеют подсказки, которые могут ограничивать, когда обработчик запущен. В некоторых случаях это может привести к повышению производительности при загрузке класса обработчика. Отдельные события будут перечислять значения подсказки, которые будут переданы, если таковые имеются.]]></phrase>
+  <phrase title="certain_events_take_hints_that_can_limit_when_listener_is_run" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Когда срабатывают определённые события, они будут срабатывать с подсказкой. Эта подсказка может быть использована на ограничение обработчика, чтобы он выполнялся только когда это необходимо, увеличивая производительность. Если событие срабатывает с подсказкой, выше в описании события будут перечислены потенциальные значения подсказки. Если указать здесь подсказку, Ваш обработчик будет выполняться только если она соответствует подсказке, указанной при срабатывании события.]]></phrase>
   <phrase title="changes_saved" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Изменения сохранены]]></phrase>
   <phrase title="change_conflicting_email_address" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Изменить конфликтующие адреса электронной почты]]></phrase>
   <phrase title="change_conflicting_user_name" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Изменить конфликтующие имена пользователей]]></phrase>
@@ -1341,7 +1341,7 @@
   <phrase title="follow_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Стать подписчиком {name}]]></phrase>
   <phrase title="font_family" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Шрифт]]></phrase>
   <phrase title="font_size" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Размер]]></phrase>
-  <phrase title="force_character_set" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Установить кодировку]]></phrase>
+  <phrase title="force_character_set" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Установленная кодировка]]></phrase>
   <phrase title="forgot_your_password" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Забыли пароль?]]></phrase>
   <phrase title="formatted" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[С форматированием]]></phrase>
   <phrase title="format_parameters" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Параметры формата]]></phrase>
@@ -1481,6 +1481,7 @@
   <phrase title="image_url" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[URL для изображения]]></phrase>
   <phrase title="import" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Импорт]]></phrase>
   <phrase title="imported_x_items" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Импортировано записей: {count}.]]></phrase>
+  <phrase title="importer_not_found_cannot_continue" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Импорт не найден. Процесс импорта не может быть продолжен.]]></phrase>
   <phrase title="importing" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Импортирование]]></phrase>
   <phrase title="import_as" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Импортировать как]]></phrase>
   <phrase title="import_attached_files" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Импортирование вложений]]></phrase>
@@ -2494,7 +2495,7 @@
   <phrase title="option_registrationTimer_explain" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Используйте эту опцию для установки минимального количества секунд, требуемых для регистрации, прежде чем будет разрешено отправить регистрационную форму. Это может помочь предотвратить автоматические регистрации спам-ботов. Используйте 0 (ноль), чтобы отключить эту опцию.]]></phrase>
   <phrase title="option_reportIntoForumId" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Создавать жалобы в разделе]]></phrase>
   <phrase title="option_reportIntoForumId_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если здесь выбран раздел, то центр жалоб будет отключён, а на каждую жалобу будет создаваться новая тема.]]></phrase>
-  <phrase title="option_romanizeUrls" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Включить романизацию ссылок для заголовков]]></phrase>
+  <phrase title="option_romanizeUrls" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Включить транслитерацию ссылок для заголовков]]></phrase>
   <phrase title="option_romanizeUrls_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если включено, то акценты и нелатинские символы в URL будут преобразованы в латинский эквивалент, если это возможно.]]></phrase>
   <phrase title="option_saveDrafts" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Сохранять черновики, пока пишутся сообщения]]></phrase>
   <phrase title="option_saveDrafts_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если включено, черновики будут периодически отправляться на сервер и сохраняться, чтобы пользователи могли позднее возобновить работу над своими сообщениями. Отключение этой опции также отключит автоматическую проверку наличия новых сообщений при написании ответа.]]></phrase>
@@ -4089,7 +4090,7 @@
   <phrase title="style_property_noticeSpeed_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Скорость анимации для объявлений]]></phrase>
   <phrase title="style_property_noticeVertical_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[По умолчанию объявления меняются слева направо.]]></phrase>
   <phrase title="style_property_noticeVertical_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Использовать вертикальный скроллинг для объявлений]]></phrase>
-  <phrase title="style_property_ogLogoPath_description_master" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Этот логотип будет показан в Facebook, когда посетителю понравится страница на Вашем сайте. Размер должен быть не менее 50x50, а форма в виде квадрата.]]></phrase>
+  <phrase title="style_property_ogLogoPath_description_master" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Этот логотип будет показан в Facebook, когда посетителю понравится страница на Вашем сайте. Размер должен быть не менее 200x200, а форма в виде квадрата.]]></phrase>
   <phrase title="style_property_ogLogoPath_master" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Логотип Facebook Open Graph]]></phrase>
   <phrase title="style_property_overlayCloseControl_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Оформление кнопки 'закрыть', которая отображается в случае, если никакой другой элемент управления не предоставлен, чтобы закрыть всплывающее окно.]]></phrase>
   <phrase title="style_property_overlayCloseControl_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Кнопка "Закрыть"]]></phrase>
@@ -4129,7 +4130,7 @@
   <phrase title="style_property_pageNav_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav: контейнер]]></phrase>
   <phrase title="style_property_pageWidthResponsiveMedium_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Изменения для средней ширины адаптивной страницы.]]></phrase>
   <phrase title="style_property_pageWidthResponsiveMedium_master" addon_id="XenForo" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Ширина страницы (средняя)]]></phrase>
-  <phrase title="style_property_pageWidthResponsiveNarrow_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_property_pageWidthResponsiveNarrow_description_master" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Изменения для узкой ширины адаптивной страницы.]]></phrase>
   <phrase title="style_property_pageWidthResponsiveNarrow_master" addon_id="XenForo" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Ширина страницы (узкая)]]></phrase>
   <phrase title="style_property_pageWidthResponsiveWide_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Изменения для широкой ширины адаптивной страницы.]]></phrase>
   <phrase title="style_property_pageWidthResponsiveWide_master" addon_id="XenForo" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Ширина страницы (широкая)]]></phrase>
@@ -4371,7 +4372,7 @@
   <phrase title="template_modifications" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Модификации шаблонов]]></phrase>
   <phrase title="template_modification_keys_must_be_unique" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Ключ модификации шаблона должен быть уникальным. Указанный ключ уже используется.]]></phrase>
   <phrase title="template_modification_log" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Журнал модификации шаблона]]></phrase>
-  <phrase title="template_modification_replace_description" addon_id="XenForo" version_id="1020052" version_string="1.2.0 Release Candidate 2"><![CDATA[Используйте $0, чтобы вставить найденный текст. Для регулярных выражений используйте $1 и т.д., чтобы вставить вторичные совпадения. Можно использовать синтаксис шаблонов XenForo.]]></phrase>
+  <phrase title="template_modification_replace_description" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Используйте $0, чтобы вставить найденный текст. Для регулярных выражений используйте $1 и т.д., чтобы вставить вторичные совпадения. Регулярные выражения также должны экранировать обратную косую черту в заменяемом содержимом (используя \). Можно использовать синтаксис шаблонов XenForo.]]></phrase>
   <phrase title="template_modification_test" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Тест модификации шаблона]]></phrase>
   <phrase title="template_name" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Имя шаблона]]></phrase>
   <phrase title="template_search_results" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Результаты поиска по шаблонам]]></phrase>
@@ -4902,7 +4903,7 @@
   <phrase title="value_a_z_0_9_and_only" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Значение (только A-Z, 0-9, и _)]]></phrase>
   <phrase title="value_display_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[HTML для вывода значения]]></phrase>
   <phrase title="value_match_requirements" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Требования для совпадения значений]]></phrase>
-  <phrase title="value_represents_internal_value_for_choice_text_is_displayed" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Значение представляет внутреннее значение для выбора. Текстовое поле показывается при отображении поля.]]></phrase>
+  <phrase title="value_represents_internal_value_for_choice_text_is_displayed" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Поле "Значение" представляет собой внутреннее значение при выборе. Поле "Текст" показывается при отображении поля. Вы не должны менять поле "Значение", так как кто-либо из пользователей уже мог выбрать этот вариант. Если Вы это сделаете, пользователи потеряют выбранный вариант.]]></phrase>
   <phrase title="variable_name" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Имя переменной]]></phrase>
   <phrase title="verification" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Проверка]]></phrase>
   <phrase title="version_comparison" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Сравнение версий]]></phrase>
@@ -4925,7 +4926,7 @@
   <phrase title="viewing_thread" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Смотрит тему]]></phrase>
   <phrase title="viewing_unknown_page" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Смотрит неизвестную страницу]]></phrase>
   <phrase title="views" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Просмотров]]></phrase>
-  <phrase title="view_all_available_trophies" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Посмотреть все доступные трофеи]]></phrase>
+  <phrase title="view_all_available_trophies" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Посмотреть все доступные трофеи]]></phrase>
   <phrase title="view_all_your_conversations" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Просмотреть все мои переписки]]></phrase>
   <phrase title="view_attachment_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Посмотреть вложение {name}]]></phrase>
   <phrase title="view_class_criteria_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Имя класса представления, который отвечает за отображение данной страницы.]]></phrase>
@@ -5157,7 +5158,7 @@
   <phrase title="word_or_phrase" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Слово или фраза]]></phrase>
   <phrase title="write_something" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Напишите что-нибудь]]></phrase>
   <phrase title="xenforo_admin_control_panel_requires_javascript" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Для работы в контрольной панели администратора XenForo необходим JavaScript. Пожалуйста, включите его в браузере, прежде чем продолжить.]]></phrase>
-  <phrase title="xenforo_copyright" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[<a href="http://xenforo.com" class="concealed">Forum software by XenForo&trade; <span>&copy;2010-2013 XenForo Ltd.</span></a><div style="text-align: left;">Перевод: <a class="concealed" href="http://www.xf-russia.ru" target="_blank">XF-Russia.ru</a></div>]]></phrase>
+  <phrase title="xenforo_copyright" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[<a href="http://xenforo.com" class="concealed">Forum software by XenForo&trade; <span>&copy;2010-2013 XenForo Ltd.</span></a><div style="text-align:left">Перевод: <a class="concealed" href="http://www.xf-russia.ru" target="_blank">XF-Russia.ru</a></div>]]></phrase>
   <phrase title="xenforo_logo" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[<!--XF:branding-->XenForo <!--/XF:branding-->Logo]]></phrase>
   <phrase title="xs_recent_activity" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Недавняя активность {name}]]></phrase>
   <phrase title="xs_reported_content" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Жалобы пользователя {name}]]></phrase>
@@ -5327,6 +5328,7 @@
   <phrase title="you_may_not_start_conversation_with_x_privacy_settings" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[Пользователь {name} не хочет, чтобы с ним вступали в личную переписку.]]></phrase>
   <phrase title="you_may_not_start_conversation_with_yourself" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Вы не можете начать переписку с самим собой.]]></phrase>
   <phrase title="you_may_not_upload_more_files_with_message_allowed_x" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Вы не можете загрузить больше вложений в это сообщение. Максимум файлов, который Вы можете загрузить: {total}.]]></phrase>
+  <phrase title="you_may_only_follow_x_people" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Вы можете быть подписчиком лишь у {count} пользователей.]]></phrase>
   <phrase title="you_may_only_invite_x_members_to_join_this_conversation" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Вы можете пригласить лишь {count} пользователей для участия в этой переписке.]]></phrase>
   <phrase title="you_may_use_bb_code" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Можно использовать BB-коды]]></phrase>
   <phrase title="you_may_use_html" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Можно использовать HTML]]></phrase>
