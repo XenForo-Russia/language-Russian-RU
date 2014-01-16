@@ -31,7 +31,7 @@
   <phrase title="active_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Активные пользователи]]></phrase>
   <phrase title="active_user_upgrades" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Действующие повышения]]></phrase>
   <phrase title="activity_display" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Отображение активности]]></phrase>
-  <phrase title="activity_stream_for_all_registered_members_at_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Лента действий всех зарегистрированных пользователей ресурса "{board_title}".]]></phrase>
+  <phrase title="activity_stream_for_all_registered_members_at_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Лента действий всех зарегистрированных пользователей сайта "{board_title}".]]></phrase>
   <phrase title="activity_stream_for_all_users_you_follow" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Лента активности всех тех, <a {link_params}>чьими подписчиками Вы являетесь</a>.]]></phrase>
   <phrase title="added_to_selected_groups_while_above_points_threshold" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Добавить к выбранным группам, пока действует вышеуказанный порог]]></phrase>
   <phrase title="additional_contact" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Контакты]]></phrase>
@@ -473,7 +473,7 @@
   <phrase title="cache_rebuilt_successfully" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Кэш успешно перестроен.]]></phrase>
   <phrase title="cache_this_phrase_globally" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Добавлять данную фразу в глобальный кэш]]></phrase>
   <phrase title="calculate_names_during_like_import" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Вычислять имена во время импорта симпатий]]></phrase>
-  <phrase title="callback_class_x_for_option_y_is_not_valid" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Класс обработчика события '{class}' для опции '{option}' некорректен.]]></phrase>
+  <phrase title="callback_class_x_for_option_y_is_not_valid" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Класс обработчика события "{class}" для опции "{option}" некорректен.]]></phrase>
   <phrase title="callback_execution_order" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Порядок выполнения обработчиков]]></phrase>
   <phrase title="callback_failed" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Ошибка обработчика]]></phrase>
   <phrase title="cancel" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Отмена]]></phrase>
@@ -493,7 +493,7 @@
   <phrase title="change_conflicting_user_name" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Изменить конфликтующие имена пользователей]]></phrase>
   <phrase title="change_conflicting_user_name_and_email_address" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Изменить конфликтующие имена пользователей и адреса электронной почты]]></phrase>
   <phrase title="characters_remaining" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Осталось символов]]></phrase>
-  <phrase title="check_all_x" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Выбрать все: '{option}']]></phrase>
+  <phrase title="check_all_x" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Выбрать все: "{option}"]]></phrase>
   <phrase title="check_boxes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Чекбоксы]]></phrase>
   <phrase title="check_spammers_ips" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Проверить IP-адреса спамера]]></phrase>
   <phrase title="child" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Дочерний]]></phrase>
@@ -566,7 +566,7 @@
   <phrase title="confirm_deletion_of_cron_entry" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Подтверждение удаления задания планировщика]]></phrase>
   <phrase title="confirm_deletion_of_email_template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Подтверждение удаления шаблона e-mail]]></phrase>
   <phrase title="confirm_deletion_of_feed" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Подтверждение удаления ленты]]></phrase>
-  <phrase title="confirm_deletion_of_field" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Подтверждение удаления дополнительного поля пользователя]]></phrase>
+  <phrase title="confirm_deletion_of_field" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Подтверждение удаления дополнительного поля]]></phrase>
   <phrase title="confirm_deletion_of_forum" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Подтверждение удаления раздела]]></phrase>
   <phrase title="confirm_deletion_of_language" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Подтверждение удаления языка]]></phrase>
   <phrase title="confirm_deletion_of_link_forum" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Подтверждение удаления раздела-ссылки]]></phrase>
@@ -609,8 +609,8 @@
   <phrase title="confirm_ip_discouragement" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Подтверждение нежелательного IP-адреса]]></phrase>
   <phrase title="confirm_lifting_of_ban" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Подтверждение снятия блокировки]]></phrase>
   <phrase title="confirm_manual_application" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Подтвердить ручное применение]]></phrase>
-  <phrase title="confirm_mark_conversation_read" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Вы уверены, что хотите отметить личную переписку '<strong>{title}</strong>' как прочитанную?]]></phrase>
-  <phrase title="confirm_mark_conversation_unread" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Вы уверены, что хотите отметить личную переписку '<strong>{title}</strong>' как непрочитанную?]]></phrase>
+  <phrase title="confirm_mark_conversation_read" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Вы уверены, что хотите отметить личную переписку "<strong>{title}</strong>" как прочитанную?]]></phrase>
+  <phrase title="confirm_mark_conversation_unread" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Вы уверены, что хотите отметить личную переписку "<strong>{title}</strong>" как непрочитанную?]]></phrase>
   <phrase title="confirm_new_password" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Новый пароль ещё раз]]></phrase>
   <phrase title="confirm_password" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Подтверждение пароля]]></phrase>
   <phrase title="confirm_restoration_of_suspected_spam_from_x" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Подтвердите восстановление материала, помеченного как спам от {name}]]></phrase>
@@ -621,8 +621,8 @@
   <phrase title="confirm_sending_email" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Подтверждение отправки письма]]></phrase>
   <phrase title="confirm_uninstallation_of_add_on" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Подтверждение удаления дополнения]]></phrase>
   <phrase title="contact_details" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Контактная информация]]></phrase>
-  <phrase title="contact_email_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Пользователь {user} отправил сообщение с ресурса "{board}" с помощью формы обратной связи.]]></phrase>
-  <phrase title="contact_email_body_text" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Данное сообщение было отправлено с помощью формы обратной связи ресурса "{board_title}".
+  <phrase title="contact_email_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Пользователь {user} отправил сообщение с сайта "{board}" с помощью формы обратной связи.]]></phrase>
+  <phrase title="contact_email_body_text" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Данное сообщение было отправлено с помощью формы обратной связи сайта "{board_title}".
 
 Имя: {name} (ID: {user_id})
 Адрес: {email}
@@ -666,12 +666,12 @@
   <phrase title="conversations_allow_exchanging_messages" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Переписки позволяют Вам обмениваться личными сообщениями с другими пользователями.]]></phrase>
   <phrase title="conversations_you_started" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Начатые мною переписки]]></phrase>
   <phrase title="conversation_display_options" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Настройки отображения]]></phrase>
-  <phrase title="conversation_email_html_footer_1" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Это сообщение с ресурса "{board}" было отправлено Вам, так как в Ваших настройках указано, что Вы желаете получать уведомления при появлении нового сообщения в переписке.]]></phrase>
+  <phrase title="conversation_email_html_footer_1" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Это сообщение было отправлено Вам с сайта "{board}", так как в Ваших настройках указано, что Вы желаете получать уведомления при появлении нового сообщения в переписке.]]></phrase>
   <phrase title="conversation_email_html_footer_2" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Если Вы больше не хотите получать уведомления, пожалуйста, <a href="{prefs_link}" style="{link_style}">измените свои настройки</a>.]]></phrase>
   <phrase title="conversation_info" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Информация о переписке]]></phrase>
-  <phrase title="conversation_insert_email_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver}, пользователь {sender} начал(а) с Вами личную переписку на ресурсе "{board}".]]></phrase>
+  <phrase title="conversation_insert_email_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver}, пользователь {sender} начал(а) с Вами личную переписку на сайте "{board}".]]></phrase>
   <phrase title="conversation_insert_email_subject" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{username} начал(а) переписку с Вами: "{title}"]]></phrase>
-  <phrase title="conversation_insert_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} начал(а) с Вами личную переписку на ресурсе "{board_title}".
+  <phrase title="conversation_insert_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} начал(а) с Вами личную переписку на сайте "{board_title}".
 
 	"{title}"
 
@@ -685,13 +685,13 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как в Ваших настройках указано, что Вы желаете получать уведомления о создании с Вами новой переписки.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как в Ваших настройках указано, что Вы желаете получать уведомления о создании с Вами новой переписки.
 
 Если Вы больше не хотите получать уведомления, пожалуйста, измените свои настройки:
 {prefs_link}
 
 {board_link}]]></phrase>
-  <phrase title="conversation_insert_messagetext_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} начал(а) с Вами личную переписку на ресурсе "{board_title}":
+  <phrase title="conversation_insert_messagetext_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} начал(а) с Вами личную переписку на сайте "{board_title}":
 
 	"{title}"
 
@@ -708,16 +708,16 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
 
 Если Вы больше не хотите получать уведомления, пожалуйста, измените свои настройки:
 {prefs_link}
 
 {board_link}]]></phrase>
   <phrase title="conversation_is_closed" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Эта переписка закрыта. Редактировать её или отвечать в ней нельзя.]]></phrase>
-  <phrase title="conversation_join_email_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver}, пользователь {sender} добавил(а) Вас к существующей личной переписке на ресурсе "{board}".]]></phrase>
+  <phrase title="conversation_join_email_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver}, пользователь {sender} добавил(а) Вас к существующей личной переписке на сайте "{board}".]]></phrase>
   <phrase title="conversation_join_email_subject" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[{username} добавил(а) Вас к переписке "{title}"]]></phrase>
-  <phrase title="conversation_join_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} добавил(а) Вас к существующей личной переписке на ресурсе "{board_title}":
+  <phrase title="conversation_join_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} добавил(а) Вас к существующей личной переписке на сайте "{board_title}":
 
 	"{title}"
 
@@ -731,13 +731,13 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
 
 Если Вы больше не хотите получать уведомления, пожалуйста, измените свои настройки:
 {prefs_link}
 
 {board_link}]]></phrase>
-  <phrase title="conversation_join_messagetext_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} добавил(а) Вас к существующей личной переписке на ресурсе "{board_title}":
+  <phrase title="conversation_join_messagetext_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} добавил(а) Вас к существующей личной переписке на сайте "{board_title}":
 
 	"{title}"
 
@@ -754,7 +754,7 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
 
 Если Вы больше не хотите получать уведомления, пожалуйста, измените свои настройки:
 {prefs_link}
@@ -765,11 +765,11 @@
   <phrase title="conversation_marked_as_unread" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Переписка отмечена как непрочитанная.]]></phrase>
   <phrase title="conversation_message" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Переписка]]></phrase>
   <phrase title="conversation_messages" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Сообщения в переписках]]></phrase>
-  <phrase title="conversation_message_in_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Сообщение в личной переписке '{title}']]></phrase>
+  <phrase title="conversation_message_in_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Сообщение в личной переписке "{title}"]]></phrase>
   <phrase title="conversation_participants" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Участники переписки]]></phrase>
-  <phrase title="conversation_reply_email_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver}, пользователь {sender} ответил(а) в Вашей личной переписке на ресурсе "{board}".]]></phrase>
+  <phrase title="conversation_reply_email_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver}, пользователь {sender} ответил(а) в Вашей личной переписке на сайте "{board}".]]></phrase>
   <phrase title="conversation_reply_email_subject" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA["{title}" - новый ответ в Вашей личной переписке]]></phrase>
-  <phrase title="conversation_reply_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} ответил(а) в Вашей личной переписке на ресурсе "{board_title}":
+  <phrase title="conversation_reply_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} ответил(а) в Вашей личной переписке на сайте "{board_title}":
 
 	"{title}"
 
@@ -783,13 +783,13 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
 
 Если Вы больше не хотите получать уведомления, пожалуйста, измените свои настройки:
 {prefs_link}
 
 {board_link}]]></phrase>
-  <phrase title="conversation_reply_messagetext_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} ответил(а) в Вашей личной переписке на ресурсе "{board_title}":
+  <phrase title="conversation_reply_messagetext_email_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver_username}, пользователь {username} ответил(а) в Вашей личной переписке на сайте "{board_title}":
 
 	"{title}"
 
@@ -806,7 +806,7 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как в Ваших настройках указано, что Вы желаете получать уведомления о появлении нового сообщения в переписке.
 
 Если Вы больше не хотите получать уведомления, пожалуйста, измените свои настройки:
 {prefs_link}
@@ -965,7 +965,7 @@
   <phrase title="default_sort_order" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Порядок сортировки по умолчанию]]></phrase>
   <phrase title="default_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Текст по умолчанию]]></phrase>
   <phrase title="default_thread_prefix" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Префикс тем по умолчанию]]></phrase>
-  <phrase title="default_thread_prefix_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Можно указать префикс тем, который будет выбираться автоматически при создании новых тем в этом разделе. Выбранный префикс также <b>должен</b> быть выбран в списке 'Доступных префиксов' выше.]]></phrase>
+  <phrase title="default_thread_prefix_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Можно указать префикс тем, который будет выбираться автоматически при создании новых тем в этом разделе. Выбранный префикс также <b>должен</b> быть выбран в списке "Доступных префиксов" выше.]]></phrase>
   <phrase title="default_title" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Заголовок по умолчанию]]></phrase>
   <phrase title="default_url" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[URL по умолчанию]]></phrase>
   <phrase title="default_value" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Значение по умолчанию]]></phrase>
@@ -1049,7 +1049,7 @@
   <phrase title="deletion_successful" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Успешно удалено.]]></phrase>
   <phrase title="deletion_type" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Тип удаления]]></phrase>
   <phrase title="demote_user" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Понизить пользователя]]></phrase>
-  <phrase title="dependent_upon_show_custom_fields_style_property" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Поле будет отображаться рядом с автором сообщения только, если опция 'Отображать дополнительные поля' включена в группе настроек стиля 'Элементы сообщений'.]]></phrase>
+  <phrase title="dependent_upon_show_custom_fields_style_property" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Поле будет отображаться рядом с автором сообщения только, если опция "Отображать дополнительные поля" включена в группе настроек стиля "Элементы сообщений".]]></phrase>
   <phrase title="depends_on_permission_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Зависит от ID права доступа]]></phrase>
   <phrase title="descending" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Убыванию]]></phrase>
   <phrase title="descending_order" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[По убыванию]]></phrase>
@@ -1068,7 +1068,7 @@
   <phrase title="disabled_user_upgrades" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Отключить повышения]]></phrase>
   <phrase title="disables_selected_user_upgrades_while_this_upgrade_is_active" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Отключает выбранные повышения, если активно данное. Полезно в случае многоуровневых повышений.]]></phrase>
   <phrase title="disable_alerts" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Отключить оповещения]]></phrase>
-  <phrase title="disable_email_notification" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Выключить уведомление по электронной почте]]></phrase>
+  <phrase title="disable_email_notification" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Отключить уведомления по электронной почте]]></phrase>
   <phrase title="disable_to_prevent_feed_import" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Вы можете отключить эту опцию, чтобы временно остановить импортирование записей из этой ленты.]]></phrase>
   <phrase title="disallowed_words_in_user_names" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Запрещённый текст в именах пользователей]]></phrase>
   <phrase title="disassociate_facebook_account" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Удалить связь с учётной записью Facebook]]></phrase>
@@ -1080,7 +1080,7 @@
   <phrase title="discourage_ip" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Пометить как нежелательный]]></phrase>
   <phrase title="discourage_users" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Добавить к нежелательным]]></phrase>
   <phrase title="discussions" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Темы]]></phrase>
-  <phrase title="discussion_in_x_started_by_y_date_z" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Тема в разделе '{forum}', создана пользователем {name}, {date}.]]></phrase>
+  <phrase title="discussion_in_x_started_by_y_date_z" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Тема в разделе "{forum}", создана пользователем {name}, {date}.]]></phrase>
   <phrase title="dismiss_notice" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Скрыть объявление]]></phrase>
   <phrase title="display_all_node_types" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Отображать все типы узлов]]></phrase>
   <phrase title="display_following_node_types" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Отображать следующие типы узлов]]></phrase>
@@ -1188,7 +1188,7 @@
   <phrase title="else_or_else_if_tag_not_found_that_was_not_direct_child_of_an_if_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Тэг else или else if, который был бы прямым дочерним тэгом if, не найден.]]></phrase>
   <phrase title="else_tags_may_not_have_children" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Тэги else не могут иметь дочерних тэгов.]]></phrase>
   <phrase title="email" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[E-mail]]></phrase>
-  <phrase title="emails" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Электронную почту]]></phrase>
+  <phrase title="emails" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Электронная почта]]></phrase>
   <phrase title="email_address" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Адрес электронной почты]]></phrase>
   <phrase title="email_addresses_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Адрес электронной почты должен быть уникальным. Указанный адрес уже используется.]]></phrase>
   <phrase title="email_address_contains" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Электронный адрес пользователя содержит]]></phrase>
@@ -1221,7 +1221,7 @@
   <phrase title="enable_callback_execution" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Разрешить выполнение обработчика]]></phrase>
   <phrase title="enable_disable_modification" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Включить / отключить модификацию]]></phrase>
   <phrase title="enable_disable_route_filter" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Включить / отключить фильтр роутинга]]></phrase>
-  <phrase title="enable_disable_x" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Включить / Выключить '{title}']]></phrase>
+  <phrase title="enable_disable_x" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Включить / Выключить "{title}"]]></phrase>
   <phrase title="enable_email_confirmation" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Включить подтверждение по электронной почте]]></phrase>
   <phrase title="enable_email_notification" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Включить уведомления по электронной почте]]></phrase>
   <phrase title="enable_manual_approval" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Включить ручную проверку пользователей]]></phrase>
@@ -1239,12 +1239,12 @@
   <phrase title="enter_your_password_in_first_box_and_confirm_it_in_second" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Введите свой пароль в первое поле и подтвердите его во втором.]]></phrase>
   <phrase title="enter_your_search_and_hit_enter" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Введите параметры поиска и нажмите ввод]]></phrase>
   <phrase title="error" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Ошибка]]></phrase>
-  <phrase title="error_could_not_find_uploads_directory_at_specified_path" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Или указанный путь к IP.Board не существует, или же там нет папки 'uploads', в которой содержатся вложения и аватары.]]></phrase>
+  <phrase title="error_could_not_find_uploads_directory_at_specified_path" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Или указанный путь к IP.Board не существует, или же там нет папки "uploads", в которой содержатся вложения и аватары.]]></phrase>
   <phrase title="error_info" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Информация об ошибке]]></phrase>
   <phrase title="error_occurred_or_request_stopped" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Произошла ошибка, либо отправка запроса была отменена.]]></phrase>
   <phrase title="error_occurred_while_connecting_with_facebook" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Ошибка соединения с Facebook. Пожалуйста, попробуйте немного позже.]]></phrase>
   <phrase title="error_table_name_illegal" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Имена таблиц могут содержать только a-z, 0-9 и знаки подчёркивания.]]></phrase>
-  <phrase title="error_unable_to_create_table_due_to_error" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Невозможно создать таблицу '{table}' из-за следующей ошибки: {error}]]></phrase>
+  <phrase title="error_unable_to_create_table_due_to_error" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Невозможно создать таблицу "{table}" из-за следующей ошибки: {error}]]></phrase>
   <phrase title="event_hint" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Подсказка события]]></phrase>
   <phrase title="event_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[ID события]]></phrase>
   <phrase title="everyone" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Все]]></phrase>
@@ -1356,10 +1356,10 @@
   <phrase title="forum_statistics" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Статистика форума]]></phrase>
   <phrase title="forum_watch_notification_limit" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Ограничение на уведомления для отслеживаемых разделов]]></phrase>
   <phrase title="forum_watch_notification_limit_desc" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Можно ограничить количество уведомлений, отправляемых пользователям для их отслеживаемых разделов. Например, если выбрано "Новые темы", пользователи смогут выбирать только между опциями "Не отправлять уведомления" и "Новые темы". Это может быть использовано для ограничения нагрузки на сервер на оживлённых форумах.]]></phrase>
-  <phrase title="forum_x_marked_as_read" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[Раздел '{forum}' отмечен как прочитанный.]]></phrase>
+  <phrase title="forum_x_marked_as_read" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[Раздел "{forum}" отмечен как прочитанный.]]></phrase>
   <phrase title="for_length" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[На указанное время]]></phrase>
   <phrase title="found_unexpected_content_within_an_admin_control_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Найдено неожиданное содержимое внутри admin control тэга.]]></phrase>
-  <phrase title="found_unexpected_tag_x_as_disabled_control" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Найден отключенный элемент управления - тэг '{tag}'.]]></phrase>
+  <phrase title="found_unexpected_tag_x_as_disabled_control" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Найден отключенный элемент управления - тэг "{tag}".]]></phrase>
   <phrase title="free_form_text_allows_loose_grouping_of_adjacent_scalar_properties" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Текст в свободной форме, позволяет свободную группировку смежных <i>скалярных</i> свойств.]]></phrase>
   <phrase title="from_email" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Адрес отправителя]]></phrase>
   <phrase title="from_name" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[От имени]]></phrase>
@@ -1401,7 +1401,7 @@
   <phrase title="height" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Высота]]></phrase>
   <phrase title="help" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Помощь]]></phrase>
   <phrase title="helpful_if_wish_to_translate_language_using_xml_file" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Полезно, если Вы хотите перевести фразы, используя непосредственно XML-файл этого языка.]]></phrase>
-  <phrase title="help_cookies_description" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[<p>На этой странице объясняется, как файлы cookie используются на данном ресурсе. Если Вы продолжаете использовать этот сайт, Вы соглашаетесь на использование нами Ваших файлов cookie.</p>
+  <phrase title="help_cookies_description" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[<p>На этой странице объясняется, как файлы cookie используются на данном сайте. Если Вы продолжаете использовать этот сайт, Вы соглашаетесь на использование нами Ваших файлов cookie.</p>
 
 <h3 class="textHeading">Что такое файлы cookie?</h3>
 <p>Файлы cookie представляют собой небольшие файлы, сохраняемые на Вашем компьютере веб-браузером (например, Internet Explorer, FireFox, Chrome или Opera) по требованию сайта, который Вы просматриваете. Это позволяет просматриваемому сайту запоминать о Вас некоторые вещи. Например, Ваши настройки и историю, или же держать Вас в авторизованном состоянии, когда при посещении сайта в следующий раз уже не нужно вводить логин и пароль.</p>
@@ -1411,10 +1411,10 @@
 <h3 class="textHeading">Использование нами файлов cookie</h3>
 <p>Этот сайт использует файлы cookie для многих вещей, в том числе:</p>
 <ul>
-	<li>Регистрация и обслуживание Ваших настроек. Это включает в себя возможность оставаться авторизованным на данном ресурсе при повторных посещениях, а также отображение сайта на выбранном Вами языке и стиле.</li>
+	<li>Регистрация и обслуживание Ваших настроек. Это включает в себя возможность оставаться авторизованным на данном сайте при повторных посещениях, а также отображение сайта на выбранном Вами языке и стиле.</li>
 	<li>Анализ данных. Позволяет нам определять, как люди используют сайт, и по возможности улучшить его.</li>
-	<li>Файлы cookie рекламы (возможно, третьей стороной). Если данный ресурс отображает рекламу, файлы cookie могут быть установлены рекламодателями, чтобы определить, кто и когда просматривал рекламу или другие подобные вещи. Эти файлы могут быть установлены третьими лицами, и в случае чего данный ресурс не имеет возможности ни читать, ни записывать самому эти файлы cookie.</li>
-	<li>Другие сторонние файлы cookie для таких вещей, как обмен содержимым с Facebook или Twitter. Эти файлы обычно устанавливаются третьей стороной самостоятельно, так что данный ресурс не будет иметь возможность доступа к ним.</li>
+	<li>Файлы cookie рекламы (возможно, третьей стороной). Если данный сайт отображает рекламу, файлы cookie могут быть установлены рекламодателями, чтобы определить, кто и когда просматривал рекламу или другие подобные вещи. Эти файлы могут быть установлены третьими лицами, и в случае чего данный сайте не имеет возможности ни читать, ни записывать самому эти файлы cookie.</li>
+	<li>Другие сторонние файлы cookie для таких вещей, как обмен содержимым с Facebook или Twitter. Эти файлы обычно устанавливаются третьей стороной самостоятельно, так что данный сайт не будет иметь возможность доступа к ним.</li>
 </ul>
 
 <h3 class="textHeading">Удаление/Отключение файлов cookie</h3>
@@ -1454,13 +1454,13 @@
   <phrase title="if_entered_project_honey_pot_http_blacklist_checked" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если указан ключ, то будет проводиться проверка по чёрным HTTP-спискам сервиса <a href="https://www.projecthoneypot.org/index.php" target="_blank">Project Honey Pot</a>.]]></phrase>
   <phrase title="if_entered_url_to_forum_not_contain_id_change_breaks_urls" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Если указано, URL этого раздела форума не будет содержать ID. Используйте только символы a-z, 0-9, _, и -. Имейте ввиду, что смена этого значения изменит все URL и старые перестанут работать.]]></phrase>
   <phrase title="if_forgotten_your_password_use_form_to_reset" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Если Вы забыли пароль, можете воспользоваться этой формой для его восстановления. Вы получите письмо на свою электронную почту с соответствующими инструкциями.]]></phrase>
-  <phrase title="if_selected_admin_manually_approve_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[При выборе данной опции, администратору придётся вручную проверять новых пользователей.]]></phrase>
-  <phrase title="if_selected_any_existing_last_edited_note_will_be_removed" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[При выборе данной опции, любое имеющееся примечание "Последнее редактирование" будет удалено.]]></phrase>
-  <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[При выборе данной опции, примечание "Последнее редактирование" не будет добавлено к сообщению.]]></phrase>
+  <phrase title="if_selected_admin_manually_approve_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Если включено, администратору придётся вручную проверять новых пользователей.]]></phrase>
+  <phrase title="if_selected_any_existing_last_edited_note_will_be_removed" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если включено, любое имеющееся примечание "Последнее редактирование" будет удалено.]]></phrase>
+  <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если включено, примечание "Последнее редактирование" не будет добавлено к сообщению.]]></phrase>
   <phrase title="if_selected_this_filter_will_only_be_used_to_change_incoming_urls" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если включено, то данный фильтр будет использоваться только для изменения входящих URL, не меняя исходящий роутинг у URL.]]></phrase>
   <phrase title="if_selected_this_user_will_be_listed_publicly_as_staff_member" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если включено, то этот пользователь будет отображаться для всех как один из участников команды форума.]]></phrase>
   <phrase title="if_selected_users_click_link_email_before_registration_complete" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Если включено, пользователям нужно будет нажать на ссылку в электронном письме для завершения регистрации.]]></phrase>
-  <phrase title="if_selected_users_only_view_node_if_granted_permissions" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Если включено, пользователям придётся напрямую назначать разрешающие привилегии для просмотра этого узла.]]></phrase>
+  <phrase title="if_selected_users_only_view_node_if_granted_permissions" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Если включено, пользователям придётся напрямую давать права доступа для просмотра этого узла.]]></phrase>
   <phrase title="if_selected_users_required_select_prefix_for_thread" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если включено, то пользователи должны будут выбрать префикс при создании темы или обновлении ее названия. Это не будет иметь силы для модераторов или при перемещении темы.]]></phrase>
   <phrase title="if_setting_character_set_in_vbulletin_via_config_enter_here" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Если Вы устанавливали кодировку в vBulletin в файле config.php, Вы должны указать её здесь.]]></phrase>
   <phrase title="if_specified_all_visitors_view_using_selected_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Если данная настройка имеет силу, данный элемент будет отображаться всем посетителям с использованием выбранного стиля вне зависимости от их личных настроек.]]></phrase>
@@ -1844,11 +1844,11 @@
   <phrase title="matched_x_users" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Найдено пользователей: {count}.]]></phrase>
   <phrase title="match_exact_word" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Слово целиком]]></phrase>
   <phrase title="match_urls" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Совпадения URL]]></phrase>
-  <phrase title="match_urls_are_regex" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Обрабатывать 'Совпадения URL' как регулярные выражения PCRE]]></phrase>
-  <phrase title="match_urls_are_regex_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Можно выбрать эту опцию и задать одно или несколько регулярных выражений вместо совпадающих URL-адресов. ID медиа должен быть определён с помощью именованного шаблона 'id'.<br />
+  <phrase title="match_urls_are_regex" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Обрабатывать "Совпадения URL" как регулярные выражения PCRE]]></phrase>
+  <phrase title="match_urls_are_regex_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Можно выбрать эту опцию и задать одно или несколько регулярных выражений вместо совпадающих URL-адресов. ID медиа должен быть определён с помощью именованного шаблона "id".<br />
 <br />
-Пример регулярного выражения, использующего именованный шаблон 'id':<br />
-<code>#http://www\.example\.com/video/(?P&lt;id&gt;\d+/[a-z0-9_]+)/#siU</code>]]></phrase>
+Пример регулярного выражения, использующего именованный шаблон "id":<br />
+<code>#http://www.example.com/video/(?P&lt;id&gt;d+/[a-z0-9_]+)/#siU</code>]]></phrase>
   <phrase title="match_url_callback" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Обработчик совпадений URL]]></phrase>
   <phrase title="match_url_callback_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Некоторые сайты требуют дополнительных работ на странице по извлечению ID медиа, который потом используется во вставляемом HTML-коде.<br />
 <br />
@@ -1878,7 +1878,7 @@
   <phrase title="members_who_liked_first_message" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Пользователи, которым нравится первое сообщение]]></phrase>
   <phrase title="members_who_liked_message_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Пользователи, которым нравится сообщение #{position}]]></phrase>
   <phrase title="members_who_liked_this_profile_post" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Пользователи, которым нравится это сообщение в профиле]]></phrase>
-  <phrase title="members_who_voted_for_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Пользователи, проголосовавшие за '{response}']]></phrase>
+  <phrase title="members_who_voted_for_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Пользователи, проголосовавшие за "{response}"]]></phrase>
   <phrase title="members_x_is_following" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} является подписчиком пользователей]]></phrase>
   <phrase title="member_limits_viewing_profile" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Этот пользователь ограничил доступ к своему профилю.]]></phrase>
   <phrase title="member_notification" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Уведомление пользователя]]></phrase>
@@ -1918,9 +1918,9 @@
   <phrase title="minimum_number_of_replies" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Минимальное количество ответов]]></phrase>
   <phrase title="minimum_points" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Минимум баллов]]></phrase>
   <phrase title="miscellaneous" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Прочее]]></phrase>
-  <phrase title="missing_attribute_x_for_tag_y" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Не хватает атрибута '{attribute}' для тэга '{tag}'.]]></phrase>
+  <phrase title="missing_attribute_x_for_tag_y" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Не хватает атрибута "{attribute}" для тэга "{tag}".]]></phrase>
   <phrase title="missing_container_tag_var_attribute" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Отсутствует атрибут var для тэга container.]]></phrase>
-  <phrase title="missing_label_for_option_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Отсутствует тэг for или атрибут 'label' для тэга 'option'.]]></phrase>
+  <phrase title="missing_label_for_option_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Отсутствует тэг for или атрибут "label" для тэга "option".]]></phrase>
   <phrase title="moderated" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[На модерации]]></phrase>
   <phrase title="moderate_all_messages_posted_in_this_forum" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Проверять все сообщения, размещаемые в этом разделе]]></phrase>
   <phrase title="moderation_actions" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Модерирование]]></phrase>
@@ -1950,13 +1950,13 @@
   <phrase title="moderator_log_thread_edit" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Тема отредактирована ({elements})]]></phrase>
   <phrase title="moderator_log_thread_lock" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Тема закрыта]]></phrase>
   <phrase title="moderator_log_thread_merge_target" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Тема изменена посредством объединения тем ({ids})]]></phrase>
-  <phrase title="moderator_log_thread_move" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Тема перемещена из раздела {from}]]></phrase>
+  <phrase title="moderator_log_thread_move" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Тема перемещена из раздела "{from}"]]></phrase>
   <phrase title="moderator_log_thread_poll_edit" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Отредактировано голосование в теме]]></phrase>
   <phrase title="moderator_log_thread_post_move_source" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Сообщения из темы перемещены в <a href="{url}">{title}</a>]]></phrase>
   <phrase title="moderator_log_thread_post_move_target" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Тема создана посредством перемещения сообщений ({ids})]]></phrase>
-  <phrase title="moderator_log_thread_prefix" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Префикс темы изменён с '{old}']]></phrase>
+  <phrase title="moderator_log_thread_prefix" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Префикс темы изменён с "{old}"]]></phrase>
   <phrase title="moderator_log_thread_stick" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Теме установлен статус "Важно"]]></phrase>
-  <phrase title="moderator_log_thread_title" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Заголовок темы изменён с '{old}']]></phrase>
+  <phrase title="moderator_log_thread_title" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Заголовок темы изменён с "{old}"]]></phrase>
   <phrase title="moderator_log_thread_unapprove" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Тема отклонена]]></phrase>
   <phrase title="moderator_log_thread_undelete" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Тема восстановлена]]></phrase>
   <phrase title="moderator_log_thread_unlock" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Тема открыта]]></phrase>
@@ -2207,8 +2207,8 @@
   <phrase title="options_tag_must_have_source_attribute" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Тэги option должны иметь атрибут source.]]></phrase>
   <phrase title="option_addBanUserGroup" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Добавлять заблокированных в указанную группу]]></phrase>
   <phrase title="option_addBanUserGroup_explain" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Если пользователь заблокирован, то на период действия блокировки он может быть добавлен в указанную группу пользователей. Например, это позволит переопределить настройки оформления для группы.]]></phrase>
-  <phrase title="option_addThis" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Активировать сервис 'AddThis', используя следующий ID профиля:]]></phrase>
-  <phrase title="option_addThis_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Включите сервис 'AddThis', чтобы обеспечить посетителям возможность делиться ссылками. При необходимости можно ввести ID своего профиля в 'AddThis', чтобы получить доступ к дополнительной статистике о людях, которые делятся ссылками на темы и сообщения Вашего форума. См. http://www.addthis.com]]></phrase>
+  <phrase title="option_addThis" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Активировать сервис "AddThis", используя следующий ID профиля:]]></phrase>
+  <phrase title="option_addThis_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Включите сервис "AddThis", чтобы обеспечить посетителям возможность делиться ссылками. При необходимости можно ввести ID своего профиля в "AddThis", чтобы получить доступ к дополнительной статистике о людях, которые делятся ссылками на темы и сообщения Вашего форума. См. http://www.addthis.com]]></phrase>
   <phrase title="option_adjustTitleCase" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Автоматически исправлять регистр букв в заголовках тем]]></phrase>
   <phrase title="option_adjustTitleCase_explain" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Можно включить исправление регистра в заголовках автоматически, если желаете.]]></phrase>
   <phrase title="option_adminSearchExclusions" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Объекты, включённые в поиск по панели администратора]]></phrase>
@@ -2367,7 +2367,7 @@
   <phrase title="option_group_debug" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Настройки режима отладки]]></phrase>
   <phrase title="option_group_debug_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Эти настройки предназначены исключительно для разработчиков XenForo.]]></phrase>
   <phrase title="option_group_discourager" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Нежелательные пользователи и наказание]]></phrase>
-  <phrase title="option_group_discourager_description" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Нежелательные пользователи - система, которая стремится сделать посещение и просмотр форума для "проблемных" пользователей затруднительным. Целью является их уход с ресурса "естественным" способом.<br />
+  <phrase title="option_group_discourager_description" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Нежелательные пользователи - система, которая стремится сделать посещение и просмотр форума для "проблемных" пользователей затруднительным. Целью является их уход с сайта "естественным" способом.<br />
 <br />
 Вы можете включить режим "Нежелательный пользователь" в настройках учётной записи пользователя или добавить IP или диапазон IP к нежелательным.]]></phrase>
   <phrase title="option_group_discussionOptions" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Темы, обсуждения и переписки]]></phrase>
@@ -2410,7 +2410,7 @@
   <phrase title="option_guestTimeZone" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Часовой пояс для незарегистрированных]]></phrase>
   <phrase title="option_guestTimeZone_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Дата и время будут отображаться незарегистрированным в этом часовом поясе.]]></phrase>
   <phrase title="option_homePageUrl" addon_id="XenForo" version_id="0" version_string=""><![CDATA[URL домашней страницы]]></phrase>
-  <phrase title="option_homePageUrl_explain" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[URL к Вашей главной странице, находящейся за пределами форума. Если поле оставить пустым, то вкладка 'Главная' не будет отображаться в меню навигации.]]></phrase>
+  <phrase title="option_homePageUrl_explain" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[URL главной страницы, находящейся за пределами форума. Если поле оставить пустым, то вкладка "Главная" не будет отображаться в меню навигации.]]></phrase>
   <phrase title="option_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[ID настройки]]></phrase>
   <phrase title="option_ids_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[ID настройки должен быть уникальным. Указанный ID уже используется.]]></phrase>
   <phrase title="option_imageLibrary" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Обработчик изображений по умолчанию]]></phrase>
@@ -2444,7 +2444,7 @@
   <phrase title="option_maximumSearchResults" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Максимальное количество результатов поиска]]></phrase>
   <phrase title="option_maximumSearchResults_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Это число отражает максимальное количество результатов поиска, которые будут показаны, прежде, чем права доступа будут приняты во внимание. Установка слишком высокого значения может вызвать проблемы с производительностью.]]></phrase>
   <phrase title="option_membersOnlineLimit" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Максимальное количество пользователей в блоке "Кто на форуме"]]></phrase>
-  <phrase title="option_membersOnlineLimit_explain" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Для того, чтобы блок 'Пользователи онлайн' не был слишком велик на загруженных форумах, Вы можете ограничить количество отображаемых имён до указанного значения. Установка значения в 0 (ноль) отключает этот лимит.]]></phrase>
+  <phrase title="option_membersOnlineLimit_explain" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Для того, чтобы блок "Пользователи онлайн" не был слишком велик на посещаемых форумах, можно ограничить количество отображаемых имён до указанного значения. Установка значения в 0 (ноль) отключит этот лимит.]]></phrase>
   <phrase title="option_membersPerPage" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Количество пользователей на страницу]]></phrase>
   <phrase title="option_membersPerPage_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Ограничить количество пользователей выводимых на каждой странице списка зарегистрированных пользователей и списка пользователей онлайн.]]></phrase>
   <phrase title="option_messageInlineEdit" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Включить встроенное редактирование сообщений]]></phrase>
@@ -2596,11 +2596,11 @@
   <phrase title="password" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Пароль]]></phrase>
   <phrase title="passwords_did_not_match" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пароли не совпадают. Пожалуйста, введите один и тот же пароль в оба поля.]]></phrase>
   <phrase title="password_has_been_emailed_to_you" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Пароль был отправлен на Вашу электронную почту.]]></phrase>
-  <phrase title="password_of_x_account_wish_to_associate_with_not_facebook" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Это пароль учётной записи ресурса "{board_title}", который Вы хотите ассоциировать. Это не пароль Вашей учётной записи в Facebook.]]></phrase>
-  <phrase title="password_reset_request_has_been_emailed_to_you" addon_id="XenForo" version_id="0" version_string=""><![CDATA[На Вашу электронную почту был отправлен запрос на обновление пароля. Пожалуйста, следуйте инструкциям в письме.]]></phrase>
+  <phrase title="password_of_x_account_wish_to_associate_with_not_facebook" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Это пароль учётной записи сайта "{board_title}", который Вы хотите ассоциировать. Это не пароль Вашей учётной записи в Facebook.]]></phrase>
+  <phrase title="password_reset_request_has_been_emailed_to_you" addon_id="XenForo" version_id="0" version_string=""><![CDATA[На Вашу электронную почту был отправлен запрос на сброс пароля. Пожалуйста, следуйте инструкциям в письме.]]></phrase>
   <phrase title="password_tags_must_specify_name" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Тэги password должны содержать name.]]></phrase>
   <phrase title="path_to_ipboard" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Путь к форуму IP.Board]]></phrase>
-  <phrase title="path_to_ipboard_explain" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Эта категория содержит 'conf_global.php', 'uploads' и остальные файлы IP.Board.]]></phrase>
+  <phrase title="path_to_ipboard_explain" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Эта директория содержит "conf_global.php", "uploads" и остальные файлы IP.Board.]]></phrase>
   <phrase title="payment_automatically_aken_every_time_period_to_keep_active" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Для поддержания дополнительных прав доступа плата будет взиматься автоматически.]]></phrase>
   <phrase title="payment_gateway_setup" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Настройка платёжных систем]]></phrase>
   <phrase title="people_may_reply_to_this_thread" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Пользователи могут отвечать в этой теме]]></phrase>
@@ -2648,7 +2648,7 @@
   <phrase title="permission_forum_manageAnyThread" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Управление чужими темами (перемещение, объединение и т.д.)]]></phrase>
   <phrase title="permission_forum_postReply" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Ответ в темах]]></phrase>
   <phrase title="permission_forum_postThread" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Создание новых тем]]></phrase>
-  <phrase title="permission_forum_stickUnstickThread" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Установление/снятие статуса "Важно" для тем]]></phrase>
+  <phrase title="permission_forum_stickUnstickThread" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Установка/снятие статуса "Важно" для тем]]></phrase>
   <phrase title="permission_forum_undelete" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Восстановление скрытых тем/сообщений]]></phrase>
   <phrase title="permission_forum_uploadAttachment" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Загрузка вложений в сообщения]]></phrase>
   <phrase title="permission_forum_viewAttachment" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Просмотр вложений в сообщениях]]></phrase>
@@ -2907,7 +2907,7 @@
   <phrase title="please_enter_valid_value" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, введите корректное значение.]]></phrase>
   <phrase title="please_enter_valid_value_for_this_option" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, введите корректное значение для этой настройки.]]></phrase>
   <phrase title="please_enter_value_for_all_required_fields" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Пожалуйста, заполните все обязательные поля.]]></phrase>
-  <phrase title="please_enter_value_for_required_field_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, введите значение для обязательного поля '{field}'.]]></phrase>
+  <phrase title="please_enter_value_for_required_field_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, введите значение для обязательного поля "{field}".]]></phrase>
   <phrase title="please_enter_value_that_matches_required_format" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Пожалуйста, введите значение в соответствии с требуемым форматом.]]></phrase>
   <phrase title="please_enter_value_using_x_characters_or_fewer" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, введите значение, содержащее не больше {count} символов.]]></phrase>
   <phrase title="please_enter_your_google_analytics_web_property_id_in_format" addon_id="XenForo" version_id="1020170" version_string="1.2.1"><![CDATA[Пожалуйста, введите Ваш идентификатор веб-ресурса / номер UA для Google Analytics в формате UA-XXXXXX-Y. Подробнее: <a href="https://support.google.com/analytics/answer/1032385">https://support.google.com/analytics/answer/1032385</a>.]]></phrase>
@@ -2918,8 +2918,8 @@
   <phrase title="please_select_a_prefix" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Пожалуйста, выберите префикс.]]></phrase>
   <phrase title="please_select_a_valid_type_of_moderator" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, выберите корректный ранг модератора.]]></phrase>
   <phrase title="please_select_criteria_that_must_be_met" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Пожалуйста, выберите критерий, которому нужно соответствовать.]]></phrase>
-  <phrase title="please_select_data_type_array_if_you_want_to_allow_multiple_selections" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, выберите тип данных 'Массив' ('array'), если Вы хотите разрешить только множественный выбор.]]></phrase>
-  <phrase title="please_select_data_type_other_than_array_if_you_want_to_allow_single" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, выберите другой тип данных, отличный от 'Массив' ('array'), если Вы хотите разрешить только единичный выбор.]]></phrase>
+  <phrase title="please_select_data_type_array_if_you_want_to_allow_multiple_selections" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, выберите тип данных "Массив" (array), если Вы хотите разрешить только множественный выбор.]]></phrase>
+  <phrase title="please_select_data_type_other_than_array_if_you_want_to_allow_single" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, выберите другой тип данных, отличный от "Массив" (array), если Вы хотите разрешить только единичный выбор.]]></phrase>
   <phrase title="please_select_more_one_post_merge" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, выберите несколько сообщений для объединения.]]></phrase>
   <phrase title="please_select_more_one_thread_merge" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Для объединения нужно выбрать более одной темы.]]></phrase>
   <phrase title="please_select_valid_code_event" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Пожалуйста, выберите корректное событие.]]></phrase>
@@ -2969,7 +2969,7 @@
   <phrase title="post_feed_entries_as_following_user" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Размещать от имени этого пользователя:]]></phrase>
   <phrase title="post_feed_entries_as_guest" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Размещать от гостя, используя имя из ленты сообщений.]]></phrase>
   <phrase title="post_immediately" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Размещать немедленно]]></phrase>
-  <phrase title="post_in_thread_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Сообщение из темы '{title}']]></phrase>
+  <phrase title="post_in_thread_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Сообщение из темы "{title}"]]></phrase>
   <phrase title="post_likes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Симпатии за сообщения]]></phrase>
   <phrase title="post_messages_on_this_users_profile_page" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Оставлять сообщения на странице профиля этого пользователя]]></phrase>
   <phrase title="post_messages_on_your_profile_page" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Оставлять сообщения на странице Вашего профиля]]></phrase>
@@ -3097,7 +3097,7 @@
   <phrase title="redirect" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Переадресация]]></phrase>
   <phrase title="redirection_notice" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Примечание переадресации]]></phrase>
   <phrase title="redirect_changes_saved_successfully" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Ваши изменения были сохранены.]]></phrase>
-  <phrase title="redirect_field_validated" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Значение '{value}' успешно проверено. Проверено с полем '{name}'.]]></phrase>
+  <phrase title="redirect_field_validated" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Значение "{value}" успешно проверено. Проверено с полем "{name}".]]></phrase>
   <phrase title="redo_ctrl_y" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Повторить (Ctrl+Y)]]></phrase>
   <phrase title="register" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Регистрация]]></phrase>
   <phrase title="registered" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Зарегистрированные]]></phrase>
@@ -3224,7 +3224,7 @@
   <phrase title="requested_user_group_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Запрашиваемая группа пользователей не найдена.]]></phrase>
   <phrase title="requested_user_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Запрашиваемый пользователь не найден.]]></phrase>
   <phrase title="requested_user_upgrade_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Запрашиваемое повышение пользователя не найдено.]]></phrase>
-  <phrase title="requested_user_x_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Запрашиваемый пользователь '{name}' не найден.]]></phrase>
+  <phrase title="requested_user_x_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Запрашиваемый пользователь "{name}" не найден.]]></phrase>
   <phrase title="requested_warning_action_not_found" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Запрашиваемое действие за предупреждение не найдено.]]></phrase>
   <phrase title="requested_warning_not_found" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Запрашиваемое предупреждение не найдено.]]></phrase>
   <phrase title="request_password" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Запросить пароль]]></phrase>
@@ -3287,7 +3287,7 @@
   <phrase title="route_filter_find_replace_fields_support_wildcards" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Поля поиска и замены поддерживают маску в формате {name} с уникальным именем. Одни и те же маски должны находиться в обоих полях. Чтобы ограничить маску цифрами, используйте {name:digit}; чтобы ограничить строкой, используйте {name:string}; {name} ничего не найдет, кроме слэша.]]></phrase>
   <phrase title="route_prefix" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Префикс роутинга]]></phrase>
   <phrase title="route_prefixes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Префиксы роутинга]]></phrase>
-  <phrase title="route_prefixes_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Префикс роутинга должен быть уникальным. Указанный префикс '{prefix}' уже используется.]]></phrase>
+  <phrase title="route_prefixes_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Префикс роутинга должен быть уникальным. Указанный префикс "{prefix}" уже используется.]]></phrase>
   <phrase title="route_type" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Тип роутинга]]></phrase>
   <phrase title="route_x_not_found" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Роутинг {route} не найден.]]></phrase>
   <phrase title="rss" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[RSS]]></phrase>
@@ -3421,18 +3421,18 @@
   <phrase title="set_custom_title" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Установить звание]]></phrase>
   <phrase title="set_options" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Применить]]></phrase>
   <phrase title="set_permissions" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Установить права]]></phrase>
-  <phrase title="set_permission_never_global_desc" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Установка значения 'Никогда' будет предотвращать переопределение этого права значениями в других наборах прав доступа или в правах доступа узлов.
+  <phrase title="set_permission_never_global_desc" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Установка значения "Никогда" будет предотвращать переопределение этого права значениями в других наборах прав доступа или в правах доступа узлов.
 
-Если Вы не уверены, что это то, что Вам нужно, выберите 'Не установлено (Нет)'.]]></phrase>
-  <phrase title="set_permission_never_node_desc" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Установка значения 'Никогда' будет предотвращать переопределение этого права значениями в других наборах прав доступа или в дочерних узлах.
+Если Вы не уверены, что это то, что Вам нужно, выберите "Не установлено (Нет)".]]></phrase>
+  <phrase title="set_permission_never_node_desc" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Установка значения "Никогда" будет предотвращать переопределение этого права значениями в других наборах прав доступа или в дочерних узлах.
 
-Если Вы не уверены, что это то, что Вам нужно, выберите 'Отозвать'.]]></phrase>
+Если Вы не уверены, что это то, что Вам нужно, выберите "Отозвать".]]></phrase>
   <phrase title="set_prefix" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Установить префикс]]></phrase>
   <phrase title="set_primary_user_group" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Установить основную группу пользователей]]></phrase>
   <phrase title="set_return_path_with_f_parameter" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Установить путь возврата с параметром -f (рекомендуется, но работает не на всех серверах)]]></phrase>
   <phrase title="set_thread_status" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Установить статус темы]]></phrase>
-  <phrase title="set_x_as_default_language" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Установить '{title}' языком по умолчанию]]></phrase>
-  <phrase title="set_x_as_default_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Установить '{title}' стилем по умолчанию]]></phrase>
+  <phrase title="set_x_as_default_language" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Установить "{title}" языком по умолчанию]]></phrase>
+  <phrase title="set_x_as_default_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Установить "{title}" стилем по умолчанию]]></phrase>
   <phrase title="share_this_page" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Поделиться этой страницей]]></phrase>
   <phrase title="should_conversation_receive_responses_restored_to_inbox" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Если в переписке появятся новые ответы, то переписка будет восстановлена у Вас во входящих.]]></phrase>
   <phrase title="show" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Показать]]></phrase>
@@ -3462,7 +3462,7 @@
   <phrase title="show_only_attachments_uploaded_by" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Показать вложения, загруженные пользователем...]]></phrase>
   <phrase title="show_only_conversations" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Отображать переписки]]></phrase>
   <phrase title="show_only_files_attached_to_content_type" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Показать вложения, добавленные к типу содержимого...]]></phrase>
-  <phrase title="show_only_threads_prefixed_by_x" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Отобразить только темы с префиксом '{prefix}'.]]></phrase>
+  <phrase title="show_only_threads_prefixed_by_x" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Отобразить только темы с префиксом "{prefix}".]]></phrase>
   <phrase title="show_peoples_signatures_with_their_messages" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Показывать подписи пользователей после их сообщений]]></phrase>
   <phrase title="show_signatures_with_messages" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Показывать подписи вместе с сообщениями]]></phrase>
   <phrase title="show_staff_and_group_banner" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Показывать баннер участника команды форума и группы]]></phrase>
@@ -3485,7 +3485,7 @@
   <phrase title="size" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Размер]]></phrase>
   <phrase title="small_caps" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Капитель]]></phrase>
   <phrase title="smilies" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Смайлы]]></phrase>
-  <phrase title="smilie_replacement_text_must_be_unique_x_in_use" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Текст для замены смайла должен быть уникальным. Текст '{text}' уже используется.]]></phrase>
+  <phrase title="smilie_replacement_text_must_be_unique_x_in_use" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Текст для замены смайла должен быть уникальным. Текст "{text}" уже используется.]]></phrase>
   <phrase title="soft_delete_threads" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Скрыть темы]]></phrase>
   <phrase title="solid" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Solid]]></phrase>
   <phrase title="someone_comments_on_message_on_your_profile_page_or_your_status" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Кто-то оставил комментарий к сообщению в Вашем профиле или к Вашему статусу]]></phrase>
@@ -3512,7 +3512,7 @@
   <phrase title="source_user" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Пользователь-источник]]></phrase>
   <phrase title="spam" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Спам]]></phrase>
   <phrase title="spam_cleaner" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Очистка спама]]></phrase>
-  <phrase title="spam_cleaner_applied_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Защита от спама ресурса "{board_title}"]]></phrase>
+  <phrase title="spam_cleaner_applied_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Защита от спама на сайте "{board_title}"]]></phrase>
   <phrase title="spam_cleaner_controls" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Управление очисткой спама]]></phrase>
   <phrase title="spam_cleaner_ip_address_check" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Проверка IP при очистке спама]]></phrase>
   <phrase title="spam_cleaner_log" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Журнал очистки спама]]></phrase>
@@ -3732,7 +3732,7 @@
   <phrase title="style_property_discussionListItemPageNavLinkHover_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Навигация: ссылка при наведении]]></phrase>
   <phrase title="style_property_discussionListItemPageNavLink_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_property_discussionListItemPageNavLink_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Навигация: ссылка]]></phrase>
-  <phrase title="style_property_discussionListLastPostWidth_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Управление шириной ячейки 'Последнее сообщение'.]]></phrase>
+  <phrase title="style_property_discussionListLastPostWidth_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Управление шириной ячейки "Последнее сообщение".]]></phrase>
   <phrase title="style_property_discussionListLastPostWidth_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Ширина ячейки последнего сообщения]]></phrase>
   <phrase title="style_property_discussionListMiniMeImg_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Мини-я - это маленький аватар пользователя, помечающий темы, в которых этот пользователь отвечал (располагается в нижнем правом углу, поверх аватара автора темы).]]></phrase>
   <phrase title="style_property_discussionListMiniMeImg_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Мини-я: изображение]]></phrase>
@@ -3754,7 +3754,7 @@
   <phrase title="style_property_discussionListStatsWidth_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Ширина ячейки статистики]]></phrase>
   <phrase title="style_property_discussionListTitleUnread_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Подставляется в заголовки элементов списка тем, если они содержат непрочитанные сообщения.]]></phrase>
   <phrase title="style_property_discussionListTitleUnread_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Заголовок (непрочитанный)]]></phrase>
-  <phrase title="style_property_eAuthButtonWidth_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Управление шириной кнопок внешней авторизации, таких, как 'Войти через Facebook'.]]></phrase>
+  <phrase title="style_property_eAuthButtonWidth_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Управление шириной кнопок внешней авторизации, таких, как "Войти через Facebook".]]></phrase>
   <phrase title="style_property_eAuthButtonWidth_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Ширина кнопки внешней авторизации]]></phrase>
   <phrase title="style_property_editorContent_description_master" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Содержимое полнофункционального редактора должно отображаться в тех же цветах, шрифтах и т.д., что и сообщения. Если этого не происходит, можно использовать это свойство стиля для настройки внешнего вида.]]></phrase>
   <phrase title="style_property_editorContent_master" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[Редактор - содержимое]]></phrase>
@@ -3993,9 +3993,9 @@
   <phrase title="style_property_messageNotice_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Уведомления используются, например, для отображения информации о сообщениях в очереди на модерирование или об удаляемых сообщениях.]]></phrase>
   <phrase title="style_property_messageNotice_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Уведомления]]></phrase>
   <phrase title="style_property_messagePrivateControls_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Контейнер для элементов управления, видимых привилегированным пользователям - "Редактировать", "Удалить", "IP" и т.д.]]></phrase>
-  <phrase title="style_property_messagePrivateControls_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Контейнер управления: 'Private']]></phrase>
+  <phrase title="style_property_messagePrivateControls_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Контейнер управления: "Private"]]></phrase>
   <phrase title="style_property_messagePublicControls_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Контейнер для элементов управления, видимых обычным пользователям - "Мне нравится", "Ответить" и т.д.]]></phrase>
-  <phrase title="style_property_messagePublicControls_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Контейнер управления: 'Public']]></phrase>
+  <phrase title="style_property_messagePublicControls_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Контейнер управления: "Public"]]></phrase>
   <phrase title="style_property_messageShowCustomFields_description_master" addon_id="XenForo" global_cache="1" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Отображает любые дополнительные поля, которые настроены для отображения под автором сообщения. Эта настройка контролируется индивидуально для каждого поля.]]></phrase>
   <phrase title="style_property_messageShowCustomFields_master" addon_id="XenForo" global_cache="1" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Отображать дополнительные поля]]></phrase>
   <phrase title="style_property_messageShowGender_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Отображает пол автора сообщения, если он его указал.]]></phrase>
@@ -4092,7 +4092,7 @@
   <phrase title="style_property_noticeVertical_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Использовать вертикальный скроллинг для объявлений]]></phrase>
   <phrase title="style_property_ogLogoPath_description_master" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Этот логотип будет показан в Facebook, когда посетителю понравится страница на Вашем сайте. Размер должен быть не менее 200x200, а форма в виде квадрата.]]></phrase>
   <phrase title="style_property_ogLogoPath_master" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Логотип Facebook Open Graph]]></phrase>
-  <phrase title="style_property_overlayCloseControl_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Оформление кнопки 'закрыть', которая отображается в случае, если никакой другой элемент управления не предоставлен, чтобы закрыть всплывающее окно.]]></phrase>
+  <phrase title="style_property_overlayCloseControl_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Оформление кнопки "закрыть", которая отображается в случае, если никакой другой элемент управления не предоставлен, чтобы закрыть всплывающее окно.]]></phrase>
   <phrase title="style_property_overlayCloseControl_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Кнопка "Закрыть"]]></phrase>
   <phrase title="style_property_overlayCloseSpeed_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Скорость исчезновения всплывающих окон в миллисекундах. По умолчанию 100.]]></phrase>
   <phrase title="style_property_overlayCloseSpeed_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Скорость закрытия всплывающих окон]]></phrase>
@@ -4246,7 +4246,7 @@
   <phrase title="style_property_secondaryMedium_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Второстепенный, средней яркости]]></phrase>
   <phrase title="style_property_sectionFooter_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA["Подвал" (footer) или сводка секции]]></phrase>
   <phrase title="style_property_sectionFooter_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA["Подвал" (footer) секции]]></phrase>
-  <phrase title="style_property_sectionMain_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Специально выделенная версия 'Секции'.]]></phrase>
+  <phrase title="style_property_sectionMain_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Специально выделенная версия "Секции".]]></phrase>
   <phrase title="style_property_sectionMain_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Основная часть секции]]></phrase>
   <phrase title="style_property_section_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Этот стиль применяется к большинству содержимого на сайте.]]></phrase>
   <phrase title="style_property_section_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Секция]]></phrase>
@@ -4456,9 +4456,9 @@
   <phrase title="this_integer_will_be_used_for_internal_version_comparisons" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Целое число, использующееся для внутреннего сравнения версий. Необходимо увеличивать его с каждым новым выпуском Вашего дополнения.]]></phrase>
   <phrase title="this_is_first_post_in_thread" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Это первое сообщение в теме. Его удаление приведёт к удалению всей темы.]]></phrase>
   <phrase title="this_is_how_you_will_refer_to_property_in_template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Вот так Вы будете ссылаться на свойство в шаблоне.]]></phrase>
-  <phrase title="this_is_list_of_all_members_registered_at_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Список всех пользователей, которые зарегистрированы на ресурсе "{board_title}".]]></phrase>
+  <phrase title="this_is_list_of_all_members_registered_at_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Список всех пользователей, зарегистрированных на сайте "{board_title}".]]></phrase>
   <phrase title="this_is_list_of_all_threads_that_you_watching" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Список всех тем, за которыми Вы следите.]]></phrase>
-  <phrase title="this_is_list_of_all_visitors_currently_browsing_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Список всех посетителей, просматривающих сейчас ресурс "{board_title}".]]></phrase>
+  <phrase title="this_is_list_of_all_visitors_currently_browsing_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Список всех посетителей, просматривающих сейчас сайт "{board_title}".]]></phrase>
   <phrase title="this_is_list_of_x_most_recently_updated_threads_unread_replies" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Это список {count} недавно обновлённых тем с непрочитанными ответами, за которыми Вы следите.]]></phrase>
   <phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Это имя будет отображаться в Ваших сообщениях. Можно использовать любое имя. Его нельзя будет поменять самому после регистрации.]]></phrase>
   <phrase title="this_is_only_needed_when_changing_your_email_address" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Это требуется лишь в том случае, если Вы меняете свой адрес электронной почты.]]></phrase>
@@ -4675,20 +4675,20 @@
   <phrase title="users_may_hide_this_notice_when_they_have_read_it" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Пользователи могут скрыть объявление, после его прочтения.]]></phrase>
   <phrase title="users_redirected_to_url_when_click_on_link_forum" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[При нажатии на этот раздел, пользователи будут перенаправлены по указанной ссылке.]]></phrase>
   <phrase title="users_with_custom_permissions" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Пользователи с отдельными правами доступа]]></phrase>
-  <phrase title="user_account_approved_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, учётная запись, которую Вы зарегистрировали на ресурсе "{board}", была одобрена. Теперь, Вы можете посетить наш сайт, как зарегистрированный пользователь.]]></phrase>
+  <phrase title="user_account_approved_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, учётная запись, которую Вы зарегистрировали на сайте "{board}", была одобрена. Теперь, Вы можете посетить наш сайт, как зарегистрированный пользователь.]]></phrase>
   <phrase title="user_account_approved_body_text" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{username},
 
-учётная запись, которую Вы зарегистрировали на ресурсе "{board_title}", была одобрена. Теперь, Вы можете посетить наш сайт, как зарегистрированный пользователь.
+учётная запись, которую Вы зарегистрировали на сайте "{board_title}", была одобрена. Теперь, Вы можете посетить наш сайт, как зарегистрированный пользователь.
 
 {forum_link}
 
 Благодарим Вас за регистрацию,
 {board_title}]]></phrase>
-  <phrase title="user_account_approved_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Учётная запись на ресурсе "{board_title}" была одобрена]]></phrase>
-  <phrase title="user_account_rejected_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, к сожалению, учётная запись, которую Вы регистрировали на ресурсе "{board}", не отвечает нашим требованиям. Исходя из этого, Ваша учётная запись была удалена.]]></phrase>
+  <phrase title="user_account_approved_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Учётная запись на сайте "{board_title}" была одобрена]]></phrase>
+  <phrase title="user_account_rejected_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, к сожалению, учётная запись, которую Вы регистрировали на сайте "{board}", не отвечает нашим требованиям. Исходя из этого, Ваша учётная запись была удалена.]]></phrase>
   <phrase title="user_account_rejected_body_text" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{username},
 
-к сожалению, учётная запись, которую Вы регистрировали на ресурсе "{board_title}", не отвечает нашим требованиям. Исходя из этого, Ваша учётная запись была удалена.
+к сожалению, учётная запись, которую Вы регистрировали на сайте "{board_title}", не отвечает нашим требованиям. Исходя из этого, Ваша учётная запись была удалена.
 
 Для выяснения причины Вы можете проследовать по следующей ссылке:
 {reason}
@@ -4697,22 +4697,22 @@
 
 Приносим свои извинения,
 {board_title}]]></phrase>
-  <phrase title="user_account_rejected_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Учётная запись на ресурсе "{board_title}" была отклонена]]></phrase>
+  <phrase title="user_account_rejected_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Учётная запись на сайте "{board_title}" была отклонена]]></phrase>
   <phrase title="user_associated_with_facebook" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Учётная запись пользователя связана с учётной записью Facebook]]></phrase>
   <phrase title="user_banner_styling" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Оформление баннера пользователя]]></phrase>
   <phrase title="user_banner_text" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Текст баннера пользователя]]></phrase>
   <phrase title="user_criteria" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Критерии пользователя]]></phrase>
   <phrase title="user_editable" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Пользователь может редактировать]]></phrase>
-  <phrase title="user_email_confirmation_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, для завершения регистрации на ресурсе "{board}", необходимо подтвердить свою учётную запись, перейдя по ссылке ниже.]]></phrase>
+  <phrase title="user_email_confirmation_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, для завершения регистрации на сайте "{board}", необходимо подтвердить свою учётную запись, перейдя по ссылке ниже.]]></phrase>
   <phrase title="user_email_confirmation_body_text" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username},
 
-для завершения регистрации на ресурсе "{board_title}", необходимо подтвердить свою учётную запись, перейдя по ссылке ниже:
+для завершения регистрации на сайте "{board_title}", необходимо подтвердить свою учётную запись, перейдя по ссылке ниже:
 
 {confirm_link}
 
 Благодарим Вас за регистрацию,
 {board_title}]]></phrase>
-  <phrase title="user_email_confirmation_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{boardTitle} - запрос подтверждения учётной записи]]></phrase>
+  <phrase title="user_email_confirmation_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA["{boardTitle}" - запрос на подтверждение учётной записи]]></phrase>
   <phrase title="user_essentials" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Общая информация]]></phrase>
   <phrase title="user_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Группа пользователей]]></phrase>
   <phrase title="user_groups" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Группы пользователей]]></phrase>
@@ -4739,10 +4739,10 @@
   <phrase title="user_is_not_following_you" addon_id="XenForo" global_cache="1" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{user} не является Вашим подписчиком]]></phrase>
   <phrase title="user_is_not_member_of_any_of_selected_user_groups" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[Пользователь НЕ является участником одной из выбранных групп]]></phrase>
   <phrase title="user_like_message_ratio_is_at_least" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Коэффициент симпатий к сообщениям у пользователя как минимум]]></phrase>
-  <phrase title="user_lost_password_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, для обновления пароля на ресурсе "{board}" пройдите по нижеследующей ссылке. Новый, автоматически сгенерированный пароль, будет отправлен на Вашу электронную почту.]]></phrase>
+  <phrase title="user_lost_password_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, для обновления пароля на сайте "{board}" пройдите по нижеследующей ссылке. Новый, автоматически сгенерированный пароль, будет отправлен на Вашу электронную почту.]]></phrase>
   <phrase title="user_lost_password_body_text" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[{username},
 
-для обновления пароля на ресурсе "{board_title}" пройдите по нижеследующей ссылке:
+для обновления пароля на сайте "{board_title}" пройдите по нижеследующей ссылке:
 
 {confirm_link}
 
@@ -4752,10 +4752,10 @@
 
 Спасибо,
 {board_title}]]></phrase>
-  <phrase title="user_lost_password_reset_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, Ваш пароль на ресурсе "{board}" был успешно обновлён. Вы можете войти, используя пароль, указанный ниже.]]></phrase>
+  <phrase title="user_lost_password_reset_body_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username}, Ваш пароль на сайте "{board}" был успешно обновлён. Вы можете войти, используя пароль, указанный ниже.]]></phrase>
   <phrase title="user_lost_password_reset_body_text" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{username},
 
-Ваш пароль на ресурсе "{board_title}" был успешно обновлён. Вы можете войти, используя пароль, указанный ниже.
+Ваш пароль на сайте "{board_title}" был успешно обновлён. Вы можете войти, используя пароль, указанный ниже.
 
 Имя пользователя: {username}
 Новый пароль: {password}
@@ -4765,8 +4765,8 @@
 
 Спасибо,
 {board_title}]]></phrase>
-  <phrase title="user_lost_password_reset_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{boardTitle} Сброс пароля]]></phrase>
-  <phrase title="user_lost_password_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{boardTitle} Запрос сброса пароля]]></phrase>
+  <phrase title="user_lost_password_reset_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA["{boardTitle}" - сброс пароля]]></phrase>
+  <phrase title="user_lost_password_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA["{boardTitle}" - запрос на сброс пароля]]></phrase>
   <phrase title="user_must_meet_all_criteria_to_be_promoted_active_only" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Чтобы пользователь был повышен, он должен соответствовать всем критериям. Только активные пользователи могут быть повышены.]]></phrase>
   <phrase title="user_name" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Имя пользователя]]></phrase>
   <phrase title="user_name_and_password" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Имя пользователя и пароль]]></phrase>
@@ -4971,12 +4971,12 @@
   <phrase title="warn_member" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Предупредить пользователя]]></phrase>
   <phrase title="watched" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Отслеживается]]></phrase>
   <phrase title="watched_forums" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Отслеживаемые разделы]]></phrase>
-  <phrase title="watched_forum_email_html_footer_1" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Это сообщение с ресурса "{board}" было отправлено Вам, так как Вы подписаны на получение уведомлений о новых темах или сообщениях в разделе "{node_title}" с помощью электронной почты.]]></phrase>
+  <phrase title="watched_forum_email_html_footer_1" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Это сообщение было отправлено Вам с сайта "{board}", так как Вы подписаны на получение уведомлений о новых темах или сообщениях в разделе "{node_title}" с помощью электронной почты.]]></phrase>
   <phrase title="watched_forum_email_html_footer_2" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если Вы больше не хотите получать эти уведомления, Вы можете <a href="{disable_this_link}" style="{link_style}">отключить их для этого раздела</a> или <a href="{disable_all_link}" style="{link_style}">отключить все уведомления</a>.]]></phrase>
-  <phrase title="watched_forum_message_email_html" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver}, {replier} написал(а) новое сообщение в отслеживаемом Вами разделе на ресурсе "{board}".]]></phrase>
+  <phrase title="watched_forum_message_email_html" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver}, {replier} написал(а) новое сообщение в отслеживаемом Вами разделе на сайте "{board}".]]></phrase>
   <phrase title="watched_forum_message_email_text" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver_username},
 
-пользователь {username} написал(а) новое сообщение в отслеживаемом Вами разделе на ресурсе "{board_title}".
+пользователь {username} написал(а) новое сообщение в отслеживаемом Вами разделе на сайте "{board_title}".
 
 	"{title}"
 
@@ -4989,7 +4989,7 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как Вы подписаны на получение уведомлений о новых сообщениях в разделе "{node_title}" с помощью электронной почты.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как Вы подписаны на получение уведомлений о новых сообщениях в разделе "{node_title}" с помощью электронной почты.
 
 Чтобы отключить уведомления для этого раздела:
 {disable_this_link}
@@ -5000,7 +5000,7 @@
 {board_link}]]></phrase>
   <phrase title="watched_forum_message_messagetext_email_text" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver_username},
 
-пользователь {username} написал(а) новое сообщение в отслеживаемом Вами разделе на ресурсе "{board_title}".
+пользователь {username} написал(а) новое сообщение в отслеживаемом Вами разделе на сайте "{board_title}".
 
 	"{title}"
 
@@ -5016,7 +5016,7 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как Вы подписаны на получение уведомлений о новых сообщениях в разделе "{node_title}" с помощью электронной почты.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как Вы подписаны на получение уведомлений о новых сообщениях в разделе "{node_title}" с помощью электронной почты.
 
 Чтобы отключить уведомления для этого раздела:
 {disable_this_link}
@@ -5025,10 +5025,10 @@
 {disable_all_link}
 
 {board_link}]]></phrase>
-  <phrase title="watched_forum_thread_email_html" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver}, пользователь {replier} создал(а) новую тему в отслеживаемом Вами разделе на ресурсе "{board}".]]></phrase>
+  <phrase title="watched_forum_thread_email_html" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver}, пользователь {replier} создал(а) новую тему в отслеживаемом Вами разделе на сайте "{board}".]]></phrase>
   <phrase title="watched_forum_thread_email_text" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver_username},
 
-пользователь {username} создал(а) новую тему в отслеживаемом Вами разделе на ресурсе "{board_title}".
+пользователь {username} создал(а) новую тему в отслеживаемом Вами разделе на сайте "{board_title}".
 
 	"{title}"
 
@@ -5041,7 +5041,7 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как Вы подписаны на получение уведомлений о новых темах в разделе "{node_title}" с помощью электронной почты.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как Вы подписаны на получение уведомлений о новых темах в разделе "{node_title}" с помощью электронной почты.
 
 Чтобы отключить уведомления для этого раздела:
 {disable_this_link}
@@ -5052,7 +5052,7 @@
 {board_link}]]></phrase>
   <phrase title="watched_forum_thread_messagetext_email_text" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver_username},
 
-пользователь {username} создал(а) новую тему в отслеживаемом Вами разделе на ресурсе "{board_title}".
+пользователь {username} создал(а) новую тему в отслеживаемом Вами разделе на сайте "{board_title}".
 
 	"{title}"
 
@@ -5068,7 +5068,7 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как Вы подписаны на получение уведомлений о новых темах в разделе "{node_title}" с помощью электронной почты.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как Вы подписаны на получение уведомлений о новых темах в разделе "{node_title}" с помощью электронной почты.
 
 Чтобы отключить уведомления для этого раздела:
 {disable_this_link}
@@ -5078,13 +5078,13 @@
 
 {board_link}]]></phrase>
   <phrase title="watched_threads" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Отслеживаемые темы]]></phrase>
-  <phrase title="watched_thread_email_html_footer_1" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Это сообщение с ресурса "{board}" было отправлено Вам, так как Вы подписаны на получение уведомлений о новых сообщениях в теме "{thread}" с помощью электронной почты. Вы не будете получать уведомления об этой теме, пока не прочитаете новые сообщения.]]></phrase>
+  <phrase title="watched_thread_email_html_footer_1" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Это сообщение было отправлено Вам с сайта "{board}", так как Вы подписаны на получение уведомлений о новых сообщениях в теме "{thread}" с помощью электронной почты. Вы не будете получать уведомления об этой теме, пока не прочитаете новые сообщения.]]></phrase>
   <phrase title="watched_thread_email_html_footer_2" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Если Вы больше не хотите получать эти уведомления, Вы можете <a href="{disable_this_link}" style="{link_style}">отключить их для этой темы</a> или <a href="{disable_all_link}" style="{link_style}">отключить все уведомления</a>.
 ]]></phrase>
-  <phrase title="watched_thread_reply_email_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver}, пользователь {replier} ответил(а) в отслеживаемой Вами теме на ресурсе "{board}".]]></phrase>
+  <phrase title="watched_thread_reply_email_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{receiver}, пользователь {replier} ответил(а) в отслеживаемой Вами теме на сайте "{board}".]]></phrase>
   <phrase title="watched_thread_reply_email_text" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver_username},
 
-пользователь {username} ответил(а) в отслеживаемой Вами теме на ресурсе "{board_title}".
+пользователь {username} ответил(а) в отслеживаемой Вами теме на сайте "{board_title}".
 
 	"{title}"
 
@@ -5097,7 +5097,7 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как Вы подписаны на получение уведомлений о новых сообщениях в теме "{title}" с помощью электронной почты.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как Вы подписаны на получение уведомлений о новых сообщениях в теме "{title}" с помощью электронной почты.
 
 Чтобы отключить уведомления для этой темы:
 {disable_this_link}
@@ -5108,7 +5108,7 @@
 {board_link}]]></phrase>
   <phrase title="watched_thread_reply_messagetext_email_text" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[{receiver_username},
 
-пользователь {username} ответил(а) в отслеживаемой Вами теме на ресурсе "{board_title}".
+пользователь {username} ответил(а) в отслеживаемой Вами теме на сайте "{board_title}".
 
 	"{title}"
 
@@ -5124,7 +5124,7 @@
 
 ----------------------------------------------------------------------
 
-Это сообщение с ресурса "{board_title}" было отправлено Вам, так как Вы подписаны на получение уведомлений о новых сообщениях в теме "{title}" с помощью электронной почты.
+Это сообщение было отправлено Вам с сайта "{board_title}", так как Вы подписаны на получение уведомлений о новых сообщениях в теме "{title}" с помощью электронной почты.
 
 Чтобы отключить уведомления для этой темы:
 {disable_this_link}
@@ -5154,7 +5154,7 @@
   <phrase title="without_receiving_email_notifications" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[без получения уведомлений на электронную почту]]></phrase>
   <phrase title="with_people" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[С]]></phrase>
   <phrase title="with_selected" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Применить к выбранным]]></phrase>
-  <phrase title="words_or_phrases_in_field_not_allowed_in_user_names" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Слова или фразы, которые запрещены для использования в любой части имени пользователя. Каждое слово или фразу размещайте на новой строке. Введя слово 'лес', будут запрещены также слова 'леска', 'гонсалес' и т.д.]]></phrase>
+  <phrase title="words_or_phrases_in_field_not_allowed_in_user_names" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Слова или фразы, которые запрещены для использования в любой части имени пользователя. Каждое слово или фразу размещайте на новой строке. Введя слово "лес", будут запрещены также слова "леска", "гонсалес" и т.д.]]></phrase>
   <phrase title="word_or_phrase" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Слово или фраза]]></phrase>
   <phrase title="write_something" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Напишите что-нибудь]]></phrase>
   <phrase title="xenforo_admin_control_panel_requires_javascript" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Для работы в контрольной панели администратора XenForo необходим JavaScript. Пожалуйста, включите его в браузере, прежде чем продолжить.]]></phrase>
@@ -5180,7 +5180,7 @@
   <phrase title="x_has_not_been_awarded_any_trophies_yet" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} пока что не получал(а) каких-либо трофеев.]]></phrase>
   <phrase title="x_has_not_posted_any_content_recently" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} за последнее время ничего не писал(а).]]></phrase>
   <phrase title="x_hours" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[{count} часов]]></phrase>
-  <phrase title="x_is_a_y_at_z" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[{name} - {title} на ресурсе {location}]]></phrase>
+  <phrase title="x_is_a_y_at_z" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[{name} - {title} на сайте {location}]]></phrase>
   <phrase title="x_is_being_followed_by_y_members" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Подписчиков у {name}: {count}.]]></phrase>
   <phrase title="x_is_following_y_members" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Пользователей, чьим подписчиком является {name}: {count}.]]></phrase>
   <phrase title="x_kb" addon_id="XenForo" global_cache="1" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{size} КБ]]></phrase>
