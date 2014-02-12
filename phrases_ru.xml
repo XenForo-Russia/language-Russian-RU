@@ -1382,7 +1382,7 @@
   <phrase title="global_permission_values" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Значения глобальных прав доступа]]></phrase>
   <phrase title="global_value" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Глобальное значение]]></phrase>
   <phrase title="go" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Выполнить]]></phrase>
-  <phrase title="go_to_content" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Показать в контексте]]></phrase>
+  <phrase title="go_to_content" addon_id="XenForo" version_id="1020570" version_string="1.2.5"><![CDATA[Показать в контексте]]></phrase>
   <phrase title="go_to_first_message_in_thread" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Перейти к первому сообщению в теме]]></phrase>
   <phrase title="go_to_first_unread" addon_id="XenForo" version_id="1020170" version_string="1.2.1"><![CDATA[К первому непрочитанному]]></phrase>
   <phrase title="go_to_first_unread_message" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Перейти к первому непрочитанному сообщению]]></phrase>
@@ -2429,7 +2429,7 @@
   <phrase title="option_ipLogCleanUp" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Удалять данные по использованным IP через X дней:]]></phrase>
   <phrase title="option_ipLogCleanUp_explain" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Старые записи по IP редко бывают полезными и просто занимают место. Они могут быть удалены после указанного промежутка времени, если необходимо.]]></phrase>
   <phrase title="option_jQuerySource" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Библиотека jQuery]]></phrase>
-  <phrase title="option_jQuerySource_explain" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Место, откуда будет загружаться ядро JavaScript-библиотеки jQuery. Можно использовать своё (локальное) ядро, либо выбрать один из рекомендуемых CDN-сервисов. Google и Microsoft поддерживают HTTPS/SSL, а jQuery CDN - нет.]]></phrase>
+  <phrase title="option_jQuerySource_explain" addon_id="XenForo" version_id="1020570" version_string="1.2.5"><![CDATA[Место, откуда будет загружаться ядро JavaScript-библиотеки jQuery. Можно использовать своё (локальное) ядро, либо выбрать один из рекомендуемых CDN-сервисов. Все CDN-сервисы поддерживают HTTPS/SSL.]]></phrase>
   <phrase title="option_jsLastUpdate" addon_id="XenForo" version_id="1010570" version_string="1.1.5"><![CDATA[Последнее обновление JavaScript]]></phrase>
   <phrase title="option_jsLastUpdate_explain" addon_id="XenForo" version_id="1010570" version_string="1.1.5"><![CDATA[Временной штамп в Unix-формате последнего обновления JS. Можно изменить, чтобы заставить JS закэшироваться по новой, даже если версия XF не изменилась.]]></phrase>
   <phrase title="option_lastPageLinks" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Количество последних страниц в навигации для отображения]]></phrase>
@@ -3306,7 +3306,7 @@
   <phrase title="save_add_on" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Сохранить дополнение]]></phrase>
   <phrase title="save_administrator" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Сохранить администратора]]></phrase>
   <phrase title="save_admin_navigation" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Сохранить элемент навигации панели управления]]></phrase>
-  <phrase title="save_all_changes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Сохранить все изменения]]></phrase>
+  <phrase title="save_all_changes" addon_id="XenForo" version_id="1020570" version_string="1.2.5"><![CDATA[Сохранить все изменения]]></phrase>
   <phrase title="save_and_exit" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Сохранить и выйти]]></phrase>
   <phrase title="save_and_reload" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Сохранить и перезагрузить]]></phrase>
   <phrase title="save_bb_code_media_site" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Сохранить сайт для BB-кода media]]></phrase>
@@ -4805,7 +4805,7 @@
   <phrase title="use_rich_text_editor" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Использовать полнофункциональный редактор]]></phrase>
   <phrase title="use_rich_text_editor_to_create_and_edit_messages" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Использовать полнофункциональный редактор для создания и редактирования сообщений]]></phrase>
   <phrase title="use_this_box_to_enter_any_additional_css_to_include" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Введите здесь любые дополнительные определения CSS, которые Вы хотите включить в стиль.]]></phrase>
-  <phrase title="use_this_style" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Использовать этот стиль]]></phrase>
+  <phrase title="use_this_style" addon_id="XenForo" version_id="1020570" version_string="1.2.5"><![CDATA[Использовать этот стиль]]></phrase>
   <phrase title="use_this_to_temporarily_disable_this_notice" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Используйте для временного отключения объявления.]]></phrase>
   <phrase title="use_uncompressed_files_from_x" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Использовать несжатые файлы с {path}]]></phrase>
   <phrase title="utc_0100_azores" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-01:00) Азорские острова]]></phrase>
@@ -5163,7 +5163,7 @@
   <phrase title="word_or_phrase" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Слово или фраза]]></phrase>
   <phrase title="write_something" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Напишите что-нибудь]]></phrase>
   <phrase title="xenforo_admin_control_panel_requires_javascript" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Для работы в контрольной панели администратора XenForo необходим JavaScript. Пожалуйста, включите его в браузере, прежде чем продолжить.]]></phrase>
-  <phrase title="xenforo_copyright" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[<a href="http://xenforo.com" class="concealed">Forum software by XenForo&trade; <span>&copy;2010-2013 XenForo Ltd.</span></a><div style="text-align:left">Перевод: <a class="concealed" href="http://www.xf-russia.ru" target="_blank">XF-Russia.ru</a></div>]]></phrase>
+  <phrase title="xenforo_copyright" addon_id="XenForo" version_id="1020570" version_string="1.2.5"><![CDATA[<a href="http://xenforo.com" class="concealed">Forum software by XenForo&trade; <span>&copy;2010-2014 XenForo Ltd.</span></a><div style="text-align:left">Перевод: <a class="concealed" href="http://www.xf-russia.ru" target="_blank">XF-Russia.ru</a></div>]]></phrase>
   <phrase title="xenforo_logo" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[<!--XF:branding-->XenForo <!--/XF:branding-->Logo]]></phrase>
   <phrase title="xs_recent_activity" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Недавняя активность {name}]]></phrase>
   <phrase title="xs_reported_content" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Жалобы пользователя {name}]]></phrase>
